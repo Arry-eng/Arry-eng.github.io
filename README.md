@@ -16,7 +16,7 @@ Understanding the roles of the Governor of an Indian state and the President of 
   - The President is the head of state of India.
   - Article 111 outlines the President's options regarding bills passed by Parliament.
 
-[Read More](./_Gemini%20v2.0%20Discussion%20on%20SupremeCourtOf%20India%20and%20Judiciary.html)
+[Read More](./_Gemini v20_SC_India_13Aprl2025.txt)
 
 ---
 
