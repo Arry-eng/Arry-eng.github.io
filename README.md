@@ -1,37 +1,25 @@
-# Arry-eng.github.io
-# Crossroads of Curiosity: Tech, Cosmos, and Culture
+# Welcome to Arry-eng.github.io
 
-Step into a world of exploration, where diverse fields converge to spark curiosity and creativity. This site is a celebration of the boundless potential of interdisciplinary knowledge, offering insights and discoveries across a range of fascinating subjects.
+## Latest News and Articles
 
-## What You'll Find Here:
+### Latest Article: April 13, 2025
+#### Gemini v2.0 Discussion on Supreme Court of India and Judiciary
+Understanding the roles of the Governor of an Indian state and the President of India, particularly concerning their powers over bills, requires a look into the Indian Constitution. Here's a breakdown:
 
-* **Software Development, Design, and Architecture:**
-    * Delve into the foundational principles of software development.
-    * Explore the intricacies of system design and architecture.
-    * Uncover the logic behind complex systems.
+**Duties and Powers:**
+- **Governor of an Indian State:**
+  - The Governor is the constitutional head of a state.
+  - Their duties include appointing the Chief Minister, summoning the legislature, and giving assent to bills.
+  - Article 200 outlines the Governor's options regarding bills, including reserving them for the President's consideration.
 
-* **Electronics:**
-    * Journey into the captivating realm of electronics.
-    * Uncover the limitless possibilities of circuitry and electronic systems.
-    * Learn about practical applications and theoretical concepts.
+- **President of India:**
+  - The President is the head of state of India.
+  - Article 111 outlines the President's options regarding bills passed by Parliament.
 
-* **Space and Cosmos:**
-    * Look up to the stars and delve into the mysteries of space and the cosmos.
-    * Explore astronomical phenomena and cosmological theories.
-    * Learn about current and past space exploration.
+[Read More](./_Gemini%20v2.0%20Discussion%20on%20SupremeCourtOf%20India%20and%20Judiciary.html)
 
-* **Geography:**
-    * Traverse the globe with a passion for geography.
-    * Uncover the beauty of diverse landscapes and geographical phenomena.
-    * Study regional geography, and the impact of geography on culture.
+---
 
-* **Russian Language:**
-    * Embrace the elegance of the Russian language.
-    * Gain a window into a rich cultural tapestry.
-    * Study the language and its history.
-
-## About This Site
-
-This site is dedicated to those who seek knowledge across multiple disciplines. It aims to bridge the gap between technology, science, and culture, fostering a deeper understanding of the world around us.
-
-Feel free to explore, learn, and contribute!
+## Explore More
+- [About This Web Site](./About.md)
+- [License](./LICENSE.md)
