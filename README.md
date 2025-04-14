@@ -32,18 +32,21 @@ This article demonstrates how Gemini V2.0 leverages its contextual reasoning to 
 
 ### Explore More
 - [Home](./README.md)    |   - [About](./About.md)   |   - [License](./LICENSE.md)
------------------------------------------------------------------------------------------------------------------------------------------------------------
-### License
-**Copyright (c) [2025] [Arry-eng] | This work is licensed under a Creative Commons Attribution 4.0 International License. Additional Restrictions Imposed by the Copyright Holder:**
-Despite the permissions granted by the Creative Commons Attribution 4.0 International License, the following restrictions also apply to this work:
+
+---
+
+#### License
+####**Copyright (c) [2025] [Arry-eng] | This work is licensed under a Creative Commons Attribution 4.0 International License. Additional Restrictions Imposed by the Copyright Holder:**
+Despite the permissions granted by the Creative Commons Attribution 4.0 International License, the following restrictions also apply to this work:- 
 **Non-Commercial Use Only:** This work may not be used for any commercial purposes, including but not limited to:
     * Sales of products or services.
     * Fundraising activities, including those by charitable organizations.
     * Advertising or promotional materials.
-    * Any use that directly or indirectly generates revenue.
+    * Any use that directly or indirectly generates revenue. 
 **Important Notes:**
 * These additional restrictions are intended to limit the use of this work to non-commercial purposes only.
 * The enforceability of these additional restrictions may vary depending on local laws.
 * It is recommended that users consult with legal counsel if they have any questions about the permitted use of this work.
-* The copyright holder reserves all rights not expressly granted by this license.
--------------------------------------------------------------------------------------------------------------------------------------------------------------
+* The copyright holder reserves all rights not expressly granted by this license. 
+
+---
