@@ -1,0 +1,165 @@
+/* styles.css */
+
+body {
+    font-family: sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    color: #333;
+    background-color: #f4f4f4; /* Optional: Page background color */
+}
+
+/* Icon Section */
+.icon-section {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    width: 50px; /* Adjust as needed */
+    height: 50px; /* Adjust as needed */
+    border-radius: 50%; /* Make it circular */
+    overflow: hidden; /* Hide any part of the image that goes outside the circle */
+    opacity: 0.6; /* Adjust for blur effect */
+    filter: blur(5px); /* Apply blur */
+}
+
+.icon-link {
+    display: block;
+    width: 100%;
+    height: 100%;
+    background-image: url('arry-eng-icon-big.jpg'); /* Link to your image */
+    background-size: cover; /* Ensure the image covers the entire circle */
+    background-position: center; /* Center the image within the circle */
+}
+
+/* Welcome Section */
+.welcome-header {
+    background-color: #f8f8f8;
+    padding: 20px;
+    border-bottom: 1px solid #eee;
+    text-align: center;
+    margin-top: 60px; /* Add margin to avoid overlap with the icon */
+}
+
+.welcome-title {
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.top-navigation a {
+    color: #007bff;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.top-navigation span {
+    color: #ccc;
+}
+
+/* Latest News and Articles Section */
+.articles-section {
+    padding: 20px;
+}
+
+.articles-header {
+    color: #555;
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+.article-item {
+    background-color: #fff;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-left: 3px solid #5cb85c; /* Default article highlight */
+    box-shadow: 0 1px 3px rgba(0,0,0,0.05); /* Subtle shadow */
+}
+
+.article-item:nth-child(3) { /* Style for the VB.NET article */
+    border-left-color: #f0ad4e;
+}
+
+.article-item:nth-child(4) { /* Style for the Gemini article */
+    border-left-color: #d9534f;
+}
+
+.article-date {
+    color: #007bff; /* For the latest article */
+}
+
+.article-item:nth-child(3) .article-date,
+.article-item:nth-child(4) .article-date {
+    color: #777; /* For older articles */
+}
+
+.article-title {
+    color: #444;
+}
+
+.article-summary {
+    color: #666;
+    list-style-type: square;
+    padding-left: 20px;
+}
+
+.article-link {
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* Bottom Navigation */
+.bottom-navigation {
+    background-color: #f8f8f8;
+    padding: 15px;
+    border-top: 1px solid #eee;
+    text-align: center;
+    color: #777;
+    font-size: 0.9em;
+    margin-top: 20px;
+}
+
+.bottom-navigation a {
+    color: #007bff;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+/* License Section */
+.license-section {
+    padding: 20px;
+    background-color: #fdfdfd;
+    border-top: 1px solid #eee;
+    font-size: 0.8em;
+    color: #777;
+}
+
+.license-title {
+    color: #555;
+    font-size: 1em;
+    margin-bottom: 10px;
+}
+
+.license-header {
+    color: #777;
+    font-size: 1.1em;
+    margin-bottom: 5px;
+}
+
+.license-restrictions-title,
+.license-notes-title {
+    color: #777;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+.license-restrictions-list,
+.license-notes-list {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+.license-restrictions-list ul {
+    list-style-type: circle;
+    padding-left: 20px;
+}
