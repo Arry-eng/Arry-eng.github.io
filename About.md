@@ -1,6 +1,6 @@
-﻿# Arry-eng.github.io
-- [Home](./README.md) - [About](./About.md) - [License](./LICENSE.md)
-# Crossroads of Curiosity: Tech, Cosmos, and Culture 
+﻿# Arry-eng.github.io: 	|		[Home](./README.md)		|	 [About](./About.md) 	|	 [License](./LICENSE.md)
+# Crossroads of Curiosity: Tech, Cosmos, and Culture
+
 Step into a world of exploration, where diverse fields converge to spark curiosity and creativity. This site is a celebration of the boundless potential of interdisciplinary knowledge, offering insights and discoveries across a range of fascinating subjects.
 
 ## What You'll Find Here:
@@ -35,10 +35,6 @@ Step into a world of exploration, where diverse fields converge to spark curiosi
 This site is dedicated to those who seek knowledge across multiple disciplines. It aims to bridge the gap between technology, science, and culture, fostering a deeper understanding of the world around us.
 
 Feel free to explore, and learn!
-
-## Explore More
-- [Home](./README.md)
-- [About](./About.md)
-- [License](./LICENSE.md)
-  
-@Content crafted with the assistance of Copilot, an AI companion developed by Microsoft. Discover more about Copilot at this [link:](https://www.microsoft.com/en-us/copilot) 
+<small>
+- [Home](./README.md) 	|	 - [About](./About.md) 		| 	- [License](./LICENSE.md) 	| 	- [Help](./help/help.md) - Help provided by your friendly Learning Coach [Gemini]("https://gemini.google.com/")
+</small>
