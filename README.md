@@ -37,5 +37,5 @@ This article demonstrates how Gemini V2.0 leverages its contextual reasoning to 
     * These additional restrictions are intended to limit the use of this work to non-commercial purposes only.
     * The enforceability of these additional restrictions may vary depending on local laws.
     * It is recommended that users consult with legal counsel if they have any questions about the permitted use of this work.
-    * The copyright holder reserves all rights not expressly granted by this license. 
+    * The copyright holder reserves all rights not expressly granted by this license\.
 ---
