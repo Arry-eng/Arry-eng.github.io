@@ -1,13 +1,14 @@
+<!DOCTYPE html>
 <div class="icon-section">
-    <a href="\images\arry-eng-icon-big.jpg" class="icon-link"></a>
+    <a href="/images/arry-eng-icon-big.jpg" class="icon-link"></a>
 </div>
 
 <div class="welcome-header">
     <h1 class="welcome-title">Welcome to Arry-eng.github.io</h1>
     <p class="top-navigation">
-        <a href=".\README.md">Home</a> <span class="separator">|</span>
-        <a href=".\About.md">About</a> <span class="separator">|</span>
-        <a href=".\LICENSE.md">License</a>
+        <a href="/">Home</a> <span class="separator">|</span>
+        <a href="/About.md">About</a> <span class="separator">|</span>
+        <a href="/LICENSE.md">License</a>
     </p>
 </div>
 
