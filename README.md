@@ -1,24 +1,13 @@
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-Z7ZTLJ3BYB"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-Z7ZTLJ3BYB');
-</script>
-
-<link rel="stylesheet" href="css/styles.css">
-
 <div class="icon-section">
-    <a href="./images/arry-eng-icon-big.jpg" class="icon-link"></a>
+    <a href="\images\arry-eng-icon-big.jpg" class="icon-link"></a>
 </div>
 
 <div class="welcome-header">
     <h1 class="welcome-title">Welcome to Arry-eng.github.io</h1>
     <p class="top-navigation">
-        <a href="./README.md">Home</a> <span class="separator">|</span>
-        <a href="./About.md">About</a> <span class="separator">|</span>
-        <a href="./LICENSE.md">License</a>
+        <a href=".\README.md">Home</a> <span class="separator">|</span>
+        <a href=".\About.md">About</a> <span class="separator">|</span>
+        <a href=".\LICENSE.md">License</a>
     </p>
 </div>
 
