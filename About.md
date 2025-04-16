@@ -2,7 +2,7 @@
 ## About me
 ![Ary-eng](/images/arry-eng-icon-big.jpg)
 <picture>
- <img alt="arry-eng" src="images/arry-eng-icon-big.jpg">
+ <img alt="arry-eng" src="/images/arry-eng-icon-big.jpg">
 </picture>
 
 # Crossroads of Curiosity: Tech, Cosmos, and Culture

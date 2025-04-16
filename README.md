@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <div class="icon-section">
     <a href="/images/arry-eng-icon-big.jpg" class="icon-link"></a>
 </div>
