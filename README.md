@@ -1,14 +1,15 @@
-<div class="icon-section">
-    <a href="/images/arry-eng-icon-big.jpg" class="icon-link"></a>
-</div>
-
 <div class="welcome-header">
-    <h1 class="welcome-title">Welcome to Arry-eng.github.io</h1>
-    <p class="top-navigation">
-        <a href="/">Home</a> <span class="separator">|</span>
-        <a href="/About.html">About</a> <span class="separator">|</span>
-        <a href="/LICENSE.md">License</a>
-    </p>
+	<div class="icon-section">
+		<a href="/images/arry-eng-icon-big.jpg" class="icon-link"></a>
+	</div>
+	<span>
+		<h1 class="welcome-title">Welcome to Arry-eng.github.io</h1>
+		<p class="top-navigation">
+			<a href="/">Home</a> <span class="separator">|</span>
+			<a href="/About.html">About</a> <span class="separator">|</span>
+			<a href="/LICENSE.md">License</a>
+		</p>
+	<span>
 </div>
 
 <div class="articles-section">
