@@ -35,6 +35,4 @@ Step into a world of exploration, where diverse fields converge to spark curiosi
 This site is dedicated to those who seek knowledge across multiple disciplines. It aims to bridge the gap between technology, science, and culture, fostering a deeper understanding of the world around us.
 
 Feel free to explore, and learn!
-<small>
 - [Home](./README.md) 	|	 - [About](./About.md) 		| 	- [License](./LICENSE.md) 	| 	- [Help](./help/help.md) - Help provided by your friendly Learning Coach [Gemini]("https://gemini.google.com/")
-</small>

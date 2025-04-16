@@ -1,3 +1,12 @@
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Z7ZTLJ3BYB"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-Z7ZTLJ3BYB');
+</script>
+
 <link rel="stylesheet" href="css/styles.css">
 
 <div class="icon-section">
@@ -71,28 +80,26 @@
 
 <div class="license-section">
     <h3 class="license-title"><small>License</small></h3>
-    <small>
-        <h4 class="license-header">Copyright (c) [2025] [Arry-eng]</h4>
-        <p>This work is licensed under a Creative Commons Attribution 4.0 International License.</p>
-        <p class="license-restrictions-title">Additional Restrictions Imposed by the Copyright Holder:</p>
-        <ul class="license-restrictions-list">
-            <li><strong>Non-Commercial Use Only:</strong> This work may not be used for any commercial purposes, including but not limited to:
-                <ul>
-                    <li>Sales of products or services.</li>
-                    <li>Fundraising activities, including those by charitable organizations.</li>
-                    <li>Advertising or promotional materials.</li>
-                    <li>Any use that directly or indirectly generates revenue.</li>
-                </ul>
-            </li>
-        </ul>
-        <p class="license-notes-title">Important Notes:</p>
-        <ul class="license-notes-list">
-            <li>These additional restrictions are intended to limit the use of this work to non-commercial purposes only.</li>
-            <li>The enforceability of these additional restrictions may vary depending on local laws.</li>
-            <li>It is recommended that users consult with legal counsel if they have any questions about the permitted use of this work.</li>
-            <li>The copyright holder reserves all rights not expressly granted by this license.</li>
-        </ul>
-		<p class="credit">Help provided by your friendly Learning Coach.</p>
-		<p class="gemini-credit">Powered by <a href="https://gemini.google.com/" target="_blank" class="gemini-link">Gemini</a>.</p>
-    </small>
+	<h4 class="license-header">Copyright (c) [2025] [Arry-eng]</h4>
+	<p>This work is licensed under a Creative Commons Attribution 4.0 International License.</p>
+	<p class="license-restrictions-title">Additional Restrictions Imposed by the Copyright Holder:</p>
+	<ul class="license-restrictions-list">
+		<li><strong>Non-Commercial Use Only:</strong> This work may not be used for any commercial purposes, including but not limited to:
+			<ul>
+				<li>Sales of products or services.</li>
+				<li>Fundraising activities, including those by charitable organizations.</li>
+				<li>Advertising or promotional materials.</li>
+				<li>Any use that directly or indirectly generates revenue.</li>
+			</ul>
+		</li>
+	</ul>
+	<p class="license-notes-title">Important Notes:</p>
+	<ul class="license-notes-list">
+		<li>These additional restrictions are intended to limit the use of this work to non-commercial purposes only.</li>
+		<li>The enforceability of these additional restrictions may vary depending on local laws.</li>
+		<li>It is recommended that users consult with legal counsel if they have any questions about the permitted use of this work.</li>
+		<li>The copyright holder reserves all rights not expressly granted by this license.</li>
+	</ul>
+	<p class="credit">Help provided by your friendly Learning Coach.</p>
+	<p class="gemini-credit">Powered by <a href="https://gemini.google.com/" target="_blank" class="gemini-link">Gemini</a>.</p>
 </div>

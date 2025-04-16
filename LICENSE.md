@@ -1,6 +1,4 @@
-<small>
 - [Home](./README.md) 	|	 - [About](./About.md) 		| 	- [License](./LICENSE.md)
-</small>
 
 # Creative Commons Attribution 4.0 International License
 
@@ -39,6 +37,5 @@ Notwithstanding the permissions granted by the Creative Commons Attribution 4.0 
 * It is recommended that users consult with legal counsel if they have any questions about the permitted use of this work.
 * The copyright holder reserves all rights not expressly granted by this license.
 ---
-<small>
+
 - [Home](./README.md) 	|	 - [About](./About.md) 		| 	- [License](./LICENSE.md)
-</small>
