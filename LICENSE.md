@@ -1,6 +1,4 @@
-- [Home](/) 	
-- [About](/About.md)
-- [License](/LICENSE.md)
+  [Home](/) 	|	  [About](/About.html) 		| 	 [License](/LICENSE.md)
 
 # Creative Commons Attribution 4.0 International License
 
@@ -38,4 +36,4 @@ Notwithstanding the permissions granted by the Creative Commons Attribution 4.0 
 * The copyright holder reserves all rights not expressly granted by this license.\
 ---
 
-  [Home](/) 	|	 	[About](/About.md) 		| 		[License](/LICENSE.md)
+  [Home](/) 	|	 	[About](/About.html) 		| 		[License](/LICENSE.md)

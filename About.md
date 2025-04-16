@@ -1,17 +1,5 @@
-﻿# Arry-eng.github.io: 	
-- [Home](/) 	
-- [About](/About.md)
-- [License](/LICENSE.md)
-
-## About me
+﻿## About Arry-eng.github.io  |	- [Home](/) 	|	- [About](/About.html)	|	- [License](/LICENSE.md)
 ![Ary-eng](/images/arry-eng-icon-big.jpg)
-<picture>
- <img alt="arry-eng" src="/images/arry-eng-icon-big.jpg">
-</picture>
-
-# Crossroads of Curiosity: Tech, Cosmos, and Culture
-
-Step into a world of exploration, where diverse fields converge to spark curiosity and creativity. This site is a celebration of the boundless potential of interdisciplinary knowledge, offering insights and discoveries across a range of fascinating subjects.
 
 ## What You'll Find Here:
 
@@ -45,4 +33,4 @@ Step into a world of exploration, where diverse fields converge to spark curiosi
 This site is dedicated to those who seek knowledge across multiple disciplines. It aims to bridge the gap between technology, science, and culture, fostering a deeper understanding of the world around us.
 
 Feel free to explore, and learn!\
- [Home](/) 	|	  [About](/About.md) 		| 	 [License](/LICENSE.md) 	| 	 [Help](/help/help.md)  Help provided by your friendly Learning Coach [Gemini]("https://gemini.google.com/")
+ [Home](/) 	|	  [About](/About.html) 		| 	 [License](/LICENSE.md) 	| 	 [Help](/help/help.html)  Help provided by your friendly Learning Coach [Gemini]("https://gemini.google.com/")

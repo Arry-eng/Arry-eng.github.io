@@ -153,4 +153,4 @@ To add a new article to your homepage, follow these steps, keeping in mind the H
 
 Your GitHub Pages site will automatically update to display the new article at the top of the "Latest News and Articles" section, linked to the corresponding file. Ensure that the relative path in the `href` attribute is correct so that users can access your new content.
 
-## Explore More: 	|	[Home](/)		|	 [About](/About.md) 	| 	[License](/LICENSE.md)	| 	Help provided by your friendly Learning Coach [Gemini]("https://gemini.google.com/")
+## Explore More: 	|	[Home](/)		|	 [About](/About.html) 	| 	[License](/LICENSE.md)	| 	Help provided by your friendly Learning Coach [Gemini]("https://gemini.google.com/")

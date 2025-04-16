@@ -1,12 +1,12 @@
 <div class="icon-section">
-    <a href="/images/arry-eng-icon-big.jpg" class="icon-link"></a>
+    <img src="/images/arry-eng-icon-big.jpg" alt="Ary-eng.github.io"  class="icon-link" />
 </div>
 
 <div class="welcome-header">
     <h1 class="welcome-title">Welcome to Arry-eng.github.io</h1>
     <p class="top-navigation">
         <a href="/">Home</a> <span class="separator">|</span>
-        <a href="/About.md">About</a> <span class="separator">|</span>
+        <a href="/About.html">About</a> <span class="separator">|</span>
         <a href="/LICENSE.md">License</a>
     </p>
 </div>
@@ -63,7 +63,7 @@
 <div class="bottom-navigation">
     Explore More:
     <a href="/">Home</a> <span class="separator">|</span>
-    <a href="./About.md">About</a> <span class="separator">|</span>
+    <a href="./About.html">About</a> <span class="separator">|</span>
     <a href="./LICENSE.md">License</a>
 </div>
 
