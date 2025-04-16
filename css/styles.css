@@ -28,9 +28,10 @@ body {
     display: block;
     width: 100%;
     height: 100%;
-    background-image: url("/favicon.ico"); /* Link to your image */
-    background-size: cover; /* Ensure the image covers the entire circle */
+    background-image: url('/images/arry-eng-icon-big.jpg'); /* Link to your image */
+    background-size: cover; /* Ensure the image covers the entire circle Or contain, depending on your preference */
     background-position: center; /* Center the image within the circle */
+    background-repeat: no-repeat;
 }
 
 /* Welcome Section */

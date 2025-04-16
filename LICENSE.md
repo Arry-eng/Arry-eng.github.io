@@ -1,3 +1,8 @@
+---
+layout: default
+title: License
+---
+
   [Home](/) 	|	  [About](/About.html) 		| 	 [License](/LICENSE.md)
 
 # Creative Commons Attribution 4.0 International License

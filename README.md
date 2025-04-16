@@ -1,5 +1,5 @@
 <div class="icon-section">
-    <img src="/images/arry-eng-icon-big.jpg" alt="Ary-eng.github.io"  class="icon-link" />
+    <a href="/images/arry-eng-icon-big.jpg" class="icon-link"></a>
 </div>
 
 <div class="welcome-header">
