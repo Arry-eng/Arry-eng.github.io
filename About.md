@@ -1,4 +1,8 @@
-﻿# Arry-eng.github.io: 	|		[Home](/)		|	 [About](/About.md) 	|	 [License](/LICENSE.md)
+﻿# Arry-eng.github.io: 	
+- [Home](/) 	
+- [About](/About.md)
+- [License](/LICENSE.md)
+
 ## About me
 ![Ary-eng](/images/arry-eng-icon-big.jpg)
 <picture>

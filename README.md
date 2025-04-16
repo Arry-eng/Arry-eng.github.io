@@ -62,7 +62,7 @@
 
 <div class="bottom-navigation">
     Explore More:
-    <a href="./README.md">Home</a> <span class="separator">|</span>
+    <a href="/">Home</a> <span class="separator">|</span>
     <a href="./About.md">About</a> <span class="separator">|</span>
     <a href="./LICENSE.md">License</a>
 </div>
