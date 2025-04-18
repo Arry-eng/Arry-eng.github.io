@@ -14,7 +14,6 @@
 
 <div class="articles-section">
     <h2 class="articles-header">Latest News and Articles</h2>
-
     <div class="article-item">
         <h3 class="article-title">Latest Article: <span class="article-date">April 15, 2025</span></h3>
         <h4 class="article-title">Comprehensive Guide to Capturing Dynamic Web Content</h4>
@@ -30,7 +29,6 @@
         <p><a class="article-link" href="./articles/DynamicContentCaptureUsingScrollingSimulation.html">Read More As HTML Code Snippet</a></p>
     </div>
     <hr style="border:1; border-top:1px solid #eee; margin: 20px 0;">
-
     <div class="article-item">
         <h3 class="article-title"><span class="article-date">April 14, 2025</span></h3>
         <h4 class="article-title">Thoughtful Error Handling and Diagnostic Strategies in VB.NET</h4>
@@ -43,7 +41,6 @@
         <p><a class="article-link" href="../articles/VB.NET_ErrorHandling_1.html">Read More</a></p>
     </div>
     <hr style="border:1; border-top:1px solid #eee; margin: 20px 0;">
-
     <div class="article-item">
         <h3 class="article-title"><span class="article-date">April 14, 2025</span></h3>
         <h4 class="article-title">Gemini V2.0: Contextual Understanding and Inference</h4>
