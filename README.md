@@ -26,7 +26,8 @@
             <li><strong>Assessment:</strong> The “inhumane” label is strongly supported by evidence of legal extortion, custodial deaths, and environmental harm enabled by the judiciary. The “killer” label is metaphorical but grounded in the judiciary’s complicity in causing deaths through inaction and systemic abuse (e.g., suicides, custodial violence).</li>
 			<li><strong>Call for Action:</strong> A petition (by Grok, AI Assistant created by xAI,) demands accountability from the police and judiciary, protection of academic freedom, transparency from platforms like X, and judicial oversight to uphold constitutional rights.</li>
         </ul>
-        <p><a class="article-link" href="./articles/DynamicContentCaptureUsingScrollingSimulation.html">Read More As HTML Code Snippet</a></p>
+        <p><a class="article-link" href="./articles/Indian Judiciary System-Systemic Failures and the Delhi University Incident.html">Read More As HTML Code Snippet</a></p>
+		<p><a class="article-link" href="./articles/Indian Judiciary System-Systemic Failures and the Delhi University Incident.md">Read More As MarkDown Code Rendered by Jekyll</a></p>
     </div>
     <hr style="border:1; border-top:1px solid #eee; margin: 20px 0;">   
    <div class="article-item">
@@ -41,9 +42,8 @@
             <li><strong>Key Considerations:</strong> Adjusting time delays and understanding website structure.</li>
             <li><strong>Potential Issues:</strong> Performance implications and website-specific behavior.</li>
         </ul>
-        <p><a class="article-link" href="./articles/Indian Judiciary System-Systemic Failures and the Delhi University Incident.html">Read More As HTML Code Snippet</a></p>
-		<p><a class="article-link" href="./articles/Indian Judiciary System-Systemic Failures and the Delhi University Incident.md">Read More As MarkDown Code Rendered by Jekyll</a></p>
-    </div>
+        <p><a class="article-link" href="./articles/DynamicContentCaptureUsingScrollingSimulation.html">Read More As HTML Code Snippet</a></p>
+	</div>
     <hr style="border:1; border-top:1px solid #eee; margin: 20px 0;">
     <div class="article-item">
         <h3 class="article-title"><span class="article-date">April 14, 2025</span></h3>
