@@ -2,38 +2,6 @@
 []
 --------------------------------
 [Query] [Arry-eng]
-
-
--------------------------------
-[Response] [AI]
-
-
---------------------------------
-[Query] [Arry-eng]
-
-
--------------------------------
-[Response] [AI]
-
-
---------------------------------
-[Query] [Arry-eng]
-
-
--------------------------------
-[Response] [AI]
-
-
---------------------------------
-[Query] [Arry-eng]
-
-
--------------------------------
-[Response] [AI]
-
-
---------------------------------
-[Query] [Arry-eng]
  want to include the use of Tracing, Logging, Debugging type Declarations for writing Trace data, log data and debug data to files. As they are not mutually exclusive, Log, Console, Debug aswell as Trace in my code. How do I know which one to use when? Are they settings for and can maintain same or different files to write information to? I want to automate the Trace all calls to a function with it's name, all parameters used along with the value passed and the returned value. Is there any macro or such type of Declarative statement possible in VB.NET. Please answer the parts in different sections.
 
 I do not want to use complex things like AOP and Code Generators as a first step. I want to main the readability of the original code as it is. I am ok with adding a utility or methods which could do tracing/logging of the code. I do not want to change the already written code, except adding some declarative stuff or comment like stuff.
