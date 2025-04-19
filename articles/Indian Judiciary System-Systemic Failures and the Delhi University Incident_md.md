@@ -17,14 +17,17 @@ title: "Article April 19, 2025"
 - [Petition for Justice](#petition-for-justice)
 - [Conclusion](#conclusion)
 
-
+{::options parse_block_html="true" /}
+<div class="summary">
 ## Summary
 - **Incident Overview**: On April 16, 2025, Delhi University law students were denied campus entry by Delhi Police to discuss the Waqf Bill, violating their rights to free speech and academic freedom.
 - **Judicial Failures**: The Indian Judiciary’s inaction in this incident reflects broader systemic issues, including lack of accountability, legal extortion, and suppression of dissent, contributing to a climate of fear.
 - **Evidence of Harm**: Legal extortion drives suicides (anecdotal reports link false 498A cases to despair), while judicial inaction enables custodial deaths (1,782 in 2022-2023) and environmental harm through forest land conversion.
 - **Accusations Analyzed**: The judiciary is accused of being a “highly inhumane killer” and engaging in “terrorism” against citizens; these are rhetorical but highlight real harm (suicides, suppression) caused by systemic failures.
 - **Call for Action**: A petition demands accountability from the police and judiciary, protection of academic freedom, transparency from platforms like X, and judicial oversight to uphold constitutional rights.
-{: class="summary"}
+<!-- {: class="summary"} This does work but puts the whole summary under <ul> -->
+</div>
+{::options parse_block_html="false" /}
 
 ## Introduction
 The Indian Judiciary, meant to uphold justice and protect constitutional rights, has increasingly been criticized for enabling systemic oppression, legal extortion, and suppression of dissent. This article documents a detailed discussion with Grok, an AI assistant created by xAI, analyzing these failures through the lens of a recent incident at Delhi University on April 16, 2025, where law students were denied campus entry to discuss the Waqf Bill. The discussion also examines broader systemic issues, including legal extortion, misuse of laws, and judicial unaccountability, questioning whether the judiciary acts as a “highly inhumane killer” and engages in “terrorism” against citizens. Drawing on a parallel conversation with Gemini V2.0, additional research, and a petition for justice, we aim to amplify marginalized voices and advocate for reform.
@@ -32,6 +35,7 @@ The Indian Judiciary, meant to uphold justice and protect constitutional rights,
 ## Delhi University Incident
 ### Incident Details
 On April 16, 2025, law students at Delhi University were barred by Delhi Police from entering their campus to hold a discussion on the Waqf Bill, a controversial piece of legislation under Supreme Court scrutiny. The incident was reported by News Tap One (@newstapworld) on X, with a graphic stating “LAW STUDENTS SILENCED” and quoting a student: “We are the law students – if we can’t speak about a bill, who can?” The post garnered limited engagement, with comments reflecting mixed opinions:
+
 >	@nitinsriv: “Not good.”
 > 	@RAJEEV131223: “You can, only if u take full responsibility of any fight or riots because of it.”
 > 	@TPrevails108: “Why would students discuss a bill passed by parliament? Discussion stage is over, now its intention is to create misinformation & instability in the country.”
