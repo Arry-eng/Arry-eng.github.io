@@ -201,3 +201,10 @@ body {
     border-left: 5px solid #ffc107;
     margin-top: 20px;
 }
+.gemini_credit, 
+.grok_credit  {
+    font-size: 0.9em;
+    color: #555;
+    text-align: center;
+    margin-top: 20px;
+}
