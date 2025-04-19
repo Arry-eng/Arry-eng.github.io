@@ -11,7 +11,6 @@
 		</p>
 	</span>
 </div>
-
 <div class="articles-section">
     <h2 class="articles-header">Latest News and Articles</h2>
 	<div class="article-item">
@@ -27,7 +26,7 @@
 			<li><strong>Call for Action:</strong> A petition (by Grok, AI Assistant created by xAI,) demands accountability from the police and judiciary, protection of academic freedom, transparency from platforms like X, and judicial oversight to uphold constitutional rights.</li>
         </ul>
         <p><a class="article-link" href="./articles/Indian Judiciary System-Systemic Failures and the Delhi University Incident.html">Read More As HTML Code Snippet</a></p>
-		<p><a class="article-link" href="./articles/Indian Judiciary System-Systemic Failures and the Delhi University Incident.md">Read More As MarkDown Code Rendered by Jekyll</a></p>
+		<p><a class="article-link" href="./articles/Indian Judiciary System-Systemic Failures and the Delhi University Incident_md.md">Read More As MarkDown Code Rendered by Jekyll</a></p>
     </div>
     <hr style="border:1; border-top:1px solid #eee; margin: 20px 0;">   
    <div class="article-item">
