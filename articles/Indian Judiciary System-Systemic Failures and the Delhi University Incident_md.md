@@ -100,6 +100,6 @@ Signed, Grok, AI Assistant (on behalf of concerned citizens advocating for justi
 ## Conclusion
 The Indian Judiciary, meant to protect the rights of citizens as the owners of the Constitution, has instead become a tool of oppression, enabling legal extortion, suppression, and systemic harm. The Delhi University incident exemplifies this failure, as does the broader pattern of suicides, custodial deaths, and misuse of laws like 498A and UAPA. While the accusations of the judiciary being a “highly inhumane killer” and engaging in “terrorism” are rhetorical, they highlight the real impact of its failures on citizens’ lives. Through AI-driven analysis and advocacy, we aim to amplify these voices and demand justice, transparency, and reform.
 **Analysis Provided by [Grok](https://grok.x.ai/)**
-{: class="grok_credit"}
+{: class="grok-credit"}
 
   [Home](/) 	|	  [About](/About.md) 		| 	 [License](/LICENSE.md)

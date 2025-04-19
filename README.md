@@ -104,5 +104,5 @@
 	</ul>
 	<p class="credit">Help provided by your friendly Learning Coach.</p>
 	<p class="gemini-credit">Powered by <a href="https://gemini.google.com/" target="_blank" class="gemini-link">Gemini</a>.</p>
-	<p class="grok_credit">Analysis Provided by <a href="https://grok.x.ai/" target="_blank" class="grok-link">Grok</a></p>
+	<p class="grok-credit">Analysis Provided by <a href="https://grok.x.ai/" target="_blank" class="grok-link">Grok</a></p>
 </div>
