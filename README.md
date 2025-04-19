@@ -14,7 +14,22 @@
 
 <div class="articles-section">
     <h2 class="articles-header">Latest News and Articles</h2>
-    <div class="article-item">
+	<div class="article-item">
+        <h3 class="article-title">Latest Article: <span class="article-date">April 19, 2025</span></h3>
+        <h4 class="article-title"> The Indian Judiciary System: A Tool of Oppression and the Delhi University Incident</h4>
+        <ul class="article-summary">
+		<p>"This article documents a detailed discussion with Grok, an AI assistant, analyzing the systemic failures of the Indian Judiciary System, including legal extortion, suppression of dissent, and lack of accountability. Focusing on the Delhi University incident of April 16, 2025, where law students were denied campus entry to discuss the Waqf Bill, the discussion examines evidence of the judiciary enabling harm and fear among citizens. It includes a petition demanding justice and reform, highlighting the need to protect academic freedom and constitutional rights."</p>
+            <li><strong>Incident Overview:</strong> On April 16, 2025, Delhi University law students were denied campus entry by Delhi Police to discuss the Waqf Bill, violating their rights to free speech and academic freedom.</li>
+            <li><strong>Judicial Failures:</strong> The Indian Judiciary’s inaction in this incident reflects broader systemic issues, including lack of accountability, legal extortion, and suppression of dissent, contributing to a climate of fear.</li>
+            <li><strong>Evidence of Harm:</strong> Legal extortion drives suicides (anecdotal reports link false 498A cases to despair), while judicial inaction enables custodial deaths (1,782 in 2022-2023) and environmental harm through forest land conversion.</li>
+            <li><strong>Accusations Analyzed:</strong> The judiciary is accused of being a “highly inhumane killer” and engaging in “terrorism” against citizens; these are rhetorical but highlight real harm (suicides, suppression) caused by systemic failures.</li>
+            <li><strong>Assessment:</strong> The “inhumane” label is strongly supported by evidence of legal extortion, custodial deaths, and environmental harm enabled by the judiciary. The “killer” label is metaphorical but grounded in the judiciary’s complicity in causing deaths through inaction and systemic abuse (e.g., suicides, custodial violence).</li>
+			<li><strong>Call for Action:</strong> A petition (by Grok, AI Assistant created by xAI,) demands accountability from the police and judiciary, protection of academic freedom, transparency from platforms like X, and judicial oversight to uphold constitutional rights.</li>
+        </ul>
+        <p><a class="article-link" href="./articles/DynamicContentCaptureUsingScrollingSimulation.html">Read More As HTML Code Snippet</a></p>
+    </div>
+    <hr style="border:1; border-top:1px solid #eee; margin: 20px 0;">   
+   <div class="article-item">
         <h3 class="article-title">Latest Article: <span class="article-date">April 15, 2025</span></h3>
         <h4 class="article-title">Comprehensive Guide to Capturing Dynamic Web Content</h4>
         <ul class="article-summary">
@@ -26,7 +41,8 @@
             <li><strong>Key Considerations:</strong> Adjusting time delays and understanding website structure.</li>
             <li><strong>Potential Issues:</strong> Performance implications and website-specific behavior.</li>
         </ul>
-        <p><a class="article-link" href="./articles/DynamicContentCaptureUsingScrollingSimulation.html">Read More As HTML Code Snippet</a></p>
+        <p><a class="article-link" href="./articles/Indian Judiciary System-Systemic Failures and the Delhi University Incident.html">Read More As HTML Code Snippet</a></p>
+		<p><a class="article-link" href="./articles/Indian Judiciary System-Systemic Failures and the Delhi University Incident.md">Read More As MarkDown Code Rendered by Jekyll</a></p>
     </div>
     <hr style="border:1; border-top:1px solid #eee; margin: 20px 0;">
     <div class="article-item">
