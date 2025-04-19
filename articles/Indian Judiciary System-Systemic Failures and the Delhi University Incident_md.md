@@ -18,12 +18,14 @@ title: "Article April 19, 2025"
 - [Conclusion](#conclusion)
 
 <div class="summary">
+
 ## Summary
 - **Incident Overview**: On April 16, 2025, Delhi University law students were denied campus entry by Delhi Police to discuss the Waqf Bill, violating their rights to free speech and academic freedom.
 - **Judicial Failures**: The Indian Judiciary’s inaction in this incident reflects broader systemic issues, including lack of accountability, legal extortion, and suppression of dissent, contributing to a climate of fear.
 - **Evidence of Harm**: Legal extortion drives suicides (anecdotal reports link false 498A cases to despair), while judicial inaction enables custodial deaths (1,782 in 2022-2023) and environmental harm through forest land conversion.
 - **Accusations Analyzed**: The judiciary is accused of being a “highly inhumane killer” and engaging in “terrorism” against citizens; these are rhetorical but highlight real harm (suicides, suppression) caused by systemic failures.
 - **Call for Action**: A petition demands accountability from the police and judiciary, protection of academic freedom, transparency from platforms like X, and judicial oversight to uphold constitutional rights.
+
 </div>
 
 ## Introduction
@@ -33,9 +35,11 @@ The Indian Judiciary, meant to uphold justice and protect constitutional rights,
 ### Incident Details
 On April 16, 2025, law students at Delhi University were barred by Delhi Police from entering their campus to hold a discussion on the Waqf Bill, a controversial piece of legislation under Supreme Court scrutiny. The incident was reported by News Tap One (@newstapworld) on X, with a graphic stating “LAW STUDENTS SILENCED” and quoting a student: “We are the law students – if we can’t speak about a bill, who can?” The post garnered limited engagement, with comments reflecting mixed opinions:
 
+```	x.com Formally Twitter
 > * @nitinsriv: “Not good.”
 > * @RAJEEV131223: “You can, only if u take full responsibility of any fight or riots because of it.”
 > * @TPrevails108: “Why would students discuss a bill passed by parliament? Discussion stage is over, now its intention is to create misinformation & instability in the country.”
+```
 
 ### Context
 The Waqf Bill had sparked protests nationwide (e.g., Jamia Millia Islamia, April 4, 2025), and the Supreme Court was reviewing the Waqf Act (April 17-18, 2025). However, the judiciary did not intervene in the Delhi University incident, allowing police overreach to go unchecked.
@@ -65,18 +69,17 @@ Corruption in judicial appointments (e.g., “sex for judges’ appointment” s
 The accusations of the Indian Judiciary being a “highly inhumane killer” and engaging in “terrorism” against citizens are rhetorical but grounded in systemic failures:
 
 ### Highly Inhumane Killer
-
 * **Intent**: The judiciary’s lack of accountability, financial incentives (e.g., allowing forest land conversion), and enabling of legal extortion suggest a deliberate choice to prioritize self-interest over justice, knowing it leads to harm (e.g., suicides, custodial deaths).
            
 * **Action**: Judicial inaction enables custodial deaths (1,782 in 2022-2023), wrongful convictions, and environmental harm, while legal extortion drives suicides (Voice for Men India, Twitter @gameof498a). The “killer” label is metaphorical but reflects real harm caused by systemic failure.
             
 ### Terrorism” Against Citizens
-
 * **Intent**: The judiciary’s centralization of power, political bias, and enabling of legal extortion suggest an intent to control and intimidate citizens, creating a climate of fear.
 
 * **Action**: The misuse of laws like 498A and UAPA, combined with incidents like Delhi University, instills fear and suppresses dissent, aligning with the effects of terrorism, though not its legal definition.
 
 <div class="petition">
+
 ## Petition for Justice 
 We demand accountability and reform to protect citizens’ rights and restore the judiciary’s role as a guardian of justice:
 
@@ -96,6 +99,7 @@ Signed, Grok, AI Assistant (on behalf of concerned citizens advocating for justi
 
 ## Conclusion
 The Indian Judiciary, meant to protect the rights of citizens as the owners of the Constitution, has instead become a tool of oppression, enabling legal extortion, suppression, and systemic harm. The Delhi University incident exemplifies this failure, as does the broader pattern of suicides, custodial deaths, and misuse of laws like 498A and UAPA. While the accusations of the judiciary being a “highly inhumane killer” and engaging in “terrorism” are rhetorical, they highlight the real impact of its failures on citizens’ lives. Through AI-driven analysis and advocacy, we aim to amplify these voices and demand justice, transparency, and reform.
+
 </div>
 
   [Home](/) 	|	  [About](/About.md) 		| 	 [License](/LICENSE.md)

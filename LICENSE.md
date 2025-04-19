@@ -1,6 +1,9 @@
+
 ---
+
 layout: default
 title: License
+
 ---
 
   [Home](/) 	|	  [About](/About.md) 		| 	 [License](/LICENSE.md)
