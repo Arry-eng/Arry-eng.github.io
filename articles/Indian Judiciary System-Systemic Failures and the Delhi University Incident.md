@@ -1,6 +1,7 @@
+
 ---
 layout: default
-title: Article April 19, 2025
+title: "Article April 19, 2025"
 ---
 
   [Home](/) 	|	  [About](/About.md) 		| 	 [License](/LICENSE.md)
