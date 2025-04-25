@@ -203,6 +203,9 @@ This is a sentence with a footnote[^1].
 
 
 ### Break-up and Translation 
+
+---
+
 **Моменты** → *Moments* → *क्षण* [^1]  
 **вневременного повествования** → *Timeless narrative* → *कालातीत कहानी कहने* [^2]  
 **вдохновляющие на стойкость** → *Inspiring resilience* → *लचीलापन को प्रेरित करना* [^3]  
@@ -216,21 +219,26 @@ This is a sentence with a footnote[^1].
 
 [^1]: This is the footnote content.
 
+---
 
 ### Footnotes for this section:  
 Pronunciation with meaning in English and Hindi:
+
+---
 
 This is a sentence with a footnote[^1].
 
 [^1]: This is the footnote content.
 
+---
 
+---
 
-[^1]: **Моменты** (*Mo-men-ty*) → *Moments* → *क्षण*  
+[^1]:**Моменты** (*Mo-men-ty*) → *Moments* → *क्षण*  
 
 [^2]:**вневременного повествования** (*v-ne-vre-men-no-go po-ves-tvo-va-ni-ya*) → *Timeless narrative* → *कालातीत कहानी कहने*  
-> - **вневременного** (*v-ne-vre-men-no-go*) → *Timeless* → *कालातीत*  
-> - **повествования** (*po-ves-tvo-va-ni-ya*) → *Narrative* → *कहानी कहने*  
+	> - **вневременного** (*v-ne-vre-men-no-go*) → *Timeless* → *कालातीत*  
+	> - **повествования** (*po-ves-tvo-va-ni-ya*) → *Narrative* → *कहानी कहने*  
 
 [^3]:**вдохновляющие на стойкость** (*v-dokh-no-vlya-yu-shche na stoikost’*) → *Inspiring resilience* → *लचीलापन को प्रेरित करना*  
 - **вдохновляющие** (*v-dokh-no-vlya-yu-shche*) → *Inspiring* → *प्रेरित करना*  
@@ -264,6 +272,8 @@ This is a sentence with a footnote[^1].
 *कभी—कभी दुनिया उन चुनौतियों को फेंक देती है जो दुर्गम लगती हैं-प्रगति, महत्वाकांक्षा या न्याय के रास्ते में खड़े दिग्गज।*  
 
 ### Break-up and Translation:  
+
+---
 **Иногда** → *Sometimes* → *कभी-कभी* [^1]  
 **мир** → *The world* → *दुनिया* [^2]  
 **бросает вызовы** → *Presents challenges* → *चुनौतियों को प्रस्तुत करता है* [^3]  
