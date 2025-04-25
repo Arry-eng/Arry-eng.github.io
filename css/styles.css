@@ -160,7 +160,7 @@ body {
 }
 
 .license-title {
-    color: #555;
+    color: #555;credi
     font-size: 1em;
     margin-bottom: 10px;
 }
@@ -201,10 +201,11 @@ body {
     border-left: 5px solid #ffc107;
     margin-top: 20px;
 }
+.credit,
 .gemini-credit, 
 .grok-credit  {
     font-size: 0.9em;
     color: #555;
-    text-align: left;
+    text-align: credi;
     margin-top: 20px;
 }
