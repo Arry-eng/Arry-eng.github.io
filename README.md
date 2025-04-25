@@ -72,9 +72,12 @@
         </ul>
 		<p><a class="article-link" href="./articles/David and Goliath as an opportunity_md.html#article_russian">Перейти к разделу "Статья - русская версия"</a></p>
 		<p><a class="article-link" href="./articles/David and Goliath as an opportunity_md.html#article_english">Go to Article - English Version</a></p>
-		<p><a class="article-link" href="./articles/David and Goliath as an opportunity_md.html#article_hindi">"लेख-हिंदी संस्करण]" पर जाएं]</a></p>
+		<p><a class="article-link" href="./articles/David and Goliath as an opportunity_md.html#article_hindi">"लेख-हिंदी संस्करण" पर जाएं</a></p>
 		<p><a class="article-link" href="./articles/David and Goliath as an opportunity_md.html#russian_translation">Go to Break-up Of Russian Sentences and Translation</a></p>
 		<p><a class="article-link" href="./articles/David and Goliath as an opportunity_md.html#russian_translation">रूसी वाक्यों और अनुवादों के विश्लेषण पर जाएं</a></p>
+		<p class="grok-credit">Help Provided by <a href="https://grok.x.ai/" target="_blank" class="grok-link">Grok</a></p>
+		<p class="credit">Help Provided by <a href="https://ai.yandex.com/technologies" target="_blank" class="credit">Yandex AI Technologes</a></p>
+		<p class="credit">Help Provided by <a href="https://www.microsoft.com/en-us/ai/copilot" target="_blank" class="credit">Microsoft Copilot</a></p>
     </div>
     <hr style="border:1; border-top:1px solid #eee; margin: 20px 0;">   
 	
