@@ -186,7 +186,9 @@ Sometimes, the world presents challenges that feel insurmountable—giants that 
 - [रूसी वाक्यों और अनुवादों के विश्लेषण पर जाएं](#russian_translation)  
 
 ---
+This is a sentence with a footnote[^1].
 
+[^1]: This is the footnote content.
 ---
 
 # Break-up Of Russian Sentences and Translation - रूसी वाक्यों और अनुवादों का विभाजन  {#russian_translation}
