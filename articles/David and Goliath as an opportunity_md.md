@@ -209,32 +209,32 @@ Sometimes, the world presents challenges that feel insurmountable—giants that 
 [^a1]:**Моменты** (*Mo-men-ty*) → *Moments* → *क्षण*  
 
 [^a2]:**вневременного повествования** (*v-ne-vre-men-no-go po-ves-tvo-va-ni-ya*) → *Timeless narrative* → *कालातीत कहानी कहने*  
-  - **вневременного** (*v-ne-vre-men-no-go*) → *Timeless* → *कालातीत*  
-  - **повествования** (*po-ves-tvo-va-ni-ya*) → *Narrative* → *कहानी कहने*  
+- **вневременного** (*v-ne-vre-men-no-go*) → *Timeless* → *कालातीत*  
+- **повествования** (*po-ves-tvo-va-ni-ya*) → *Narrative* → *कहानी कहने*  
 
 [^a3]:**вдохновляющие на стойкость** (*v-dokh-no-vlya-yu-shche na stoikost’*) → *Inspiring resilience* → *लचीलापन को प्रेरित करना*  
-  - **вдохновляющие** (*v-dokh-no-vlya-yu-shche*) → *Inspiring* → *प्रेरित करना*  
-  -	**на стойкость** (*na stoikost’*) → *Resilience* → *लचीलापन*  
+- **вдохновляющие** (*v-dokh-no-vlya-yu-shche*) → *Inspiring* → *प्रेरित करना*  
+- **на стойкость** (*na stoikost’*) → *Resilience* → *लचीलापन*  
 
 [^a4]:**и творческое решение проблем** (*i tvor-che-sko-ye re-she-ni-ye pro-blem*) → *And creative problem-solving* → *और रचनात्मक समस्या समाधान*  
-  -	**и** (*i*) → *And* → *और*  
-  -	**творческое** (*tvor-che-sko-ye*) → *Creative* → *रचनात्मक*  
-  -	**решение** (*re-she-ni-ye*) → *Solution* → *समस्या समाधान*  
-  - **проблем** (*pro-blem*) → *Problems* → *समस्याएँ*  
+- **и** (*i*) → *And* → *और*  
+- **творческое** (*tvor-che-sko-ye*) → *Creative* → *रचनात्मक*  
+- **решение** (*re-she-ni-ye*) → *Solution* → *समस्या समाधान*  
+- **проблем** (*pro-blem*) → *Problems* → *समस्याएँ*  
 
 [^a5]:**редки** (*red-ki*) → *Are rare* → *दुर्लभ हैं*  
 
 [^a6]:**Считаете ли вы** (*Schita-ye-te li vy*) → *Do you think* → *क्या आपको लगता है*  
 
 [^a7]:**что противостояние Давида и Голиафа** (*chto pro-ti-vos-to-ya-ni-ye Da-vi-da i Go-li-a-fa*) → *That the confrontation between David and Goliath* → *कि डेविड और गोलियत के बीच टकराव*  
-  - **противостояние** (*pro-ti-vos-to-ya-ni-ye*) → *Confrontation* → *टकराव*  
-  -	**Давида** (*Da-vi-da*) → *David* → *डेविड*  
-  -	**и** (*i*) → *And* → *और*  
-  -	**Голиафа** (*Go-li-a-fa*) → *Goliath* → *गोलियत*  
+- **противостояние** (*pro-ti-vos-to-ya-ni-ye*) → *Confrontation* → *टकराव*  
+- **Давида** (*Da-vi-da*) → *David* → *डेविड*  
+- **и** (*i*) → *And* → *और*  
+- **Голиафа** (*Go-li-a-fa*) → *Goliath* → *गोलियत*  
 
 [^a8]:**это возможность?** (*é-to voz-mozh-nost’*) → *Is an opportunity?* → *एक अवसर है?*  
-  - **это** (*é-to*) → *Is* → *है*  
-  -	**возможность** (*voz-mozh-nost’*) → *Opportunity* → *अवसर*  
+- **это** (*é-to*) → *Is* → *है*  
+- **возможность** (*voz-mozh-nost’*) → *Opportunity* → *अवसर*  
 
 ---
 
@@ -268,11 +268,11 @@ Sometimes, the world presents challenges that feel insurmountable—giants that 
 - **непреодолимыми** (*ne-pre-o-do-li-my-mi*) → *Insurmountable* → *दुर्गम*  
 
 [^b5]:**гиганты, стоящие на пути** (*gi-gan-ty, sto-ya-shchi-ye na pu-ti*) → *Giants that stand in the way* → *रास्ते में खड़े दिग्गज*  
-  - **гиганты** (*gi-gan-ty*) → *Giants* → *दिग्गज*  
-  - **стоящие на пути** (*sto-ya-shchi-ye na pu-ti*) → *Standing in the way* → *रास्ते में बाधा बनकर खड़ा होना*  
-  - **стоящие** (*sto-ya-shchi-ye*) → *Standing* → *खड़े हुए*  
-  - **на** (*na*) → *On, in* → *पर, में*  
-  - **пути** (*pu-ti*) → *Way, path* → *रास्ता, मार्ग*  
+- **гиганты** (*gi-gan-ty*) → *Giants* → *दिग्गज*  
+- **стоящие на пути** (*sto-ya-shchi-ye na pu-ti*) → *Standing in the way* → *रास्ते में बाधा बनकर खड़ा होना*  
+- **стоящие** (*sto-ya-shchi-ye*) → *Standing* → *खड़े हुए*  
+- **на** (*na*) → *On, in* → *पर, में*  
+- **пути** (*pu-ti*) → *Way, path* → *रास्ता, मार्ग*  
 
 [^b6]:**прогресса, амбиций или справедливости** (*pro-gre-ssa, am-bi-tsiy ili spra-ve-dli-vos-ti*) → *Of progress, ambition, or justice* → *प्रगति, महत्वाकांक्षा या न्याय के*  
 - **прогресса** (*pro-gre-ssa*) → *Progress* → *प्रगति*  
