@@ -206,11 +206,12 @@ Sometimes, the world presents challenges that feel insurmountable—giants that 
 **это возможность?** → *Is an opportunity?* → *एक अवसर है?* [^8]  
 
 ### Footnotes for this section:  
+Pronunciation with meaning in English and Hindi:
 
 
 [^1]: **Моменты** (*Mo-men-ty*) → *Moments* → *क्षण*  
 
-[^2]: **вневременного повествования** (*v-ne-vre-men-no-go po-ves-tvo-va-ni-ya*) → *Timeless narrative* → *कालातीत कहानी कहने*  
+[^2]:**вневременного повествования** (*v-ne-vre-men-no-go po-ves-tvo-va-ni-ya*) → *Timeless narrative* → *कालातीत कहानी कहने*  
 > - **вневременного** (*v-ne-vre-men-no-go*) → *Timeless* → *कालातीत*  
 > - **повествования** (*po-ves-tvo-va-ni-ya*) → *Narrative* → *कहानी कहने*  
 

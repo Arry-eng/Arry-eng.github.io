@@ -30,6 +30,7 @@ body {
 	/*align: left
     top: 10px;
     left: 10px; */
+	text-align: center;
     width: 100px; /* Adjust as needed */
     height: 100px; /* Adjust as needed */
     border-radius: 50%; /* Make it circular */
@@ -55,6 +56,7 @@ body {
   display: flex;
   flex-direction: column; /* Stack title and navigation vertically */
   align-items: center; /* Center align items within this container */
+  text-align: center;
 }
 
 .welcome-title {
