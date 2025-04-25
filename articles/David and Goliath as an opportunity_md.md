@@ -209,32 +209,32 @@ Sometimes, the world presents challenges that feel insurmountable—giants that 
 [^a1]:**Моменты** (*Mo-men-ty*) → *Moments* → *क्षण*  
 
 [^a2]:**вневременного повествования** (*v-ne-vre-men-no-go po-ves-tvo-va-ni-ya*) → *Timeless narrative* → *कालातीत कहानी कहने*  
-		**вневременного** (*v-ne-vre-men-no-go*) → *Timeless* → *कालातीत*  
-		**повествования** (*po-ves-tvo-va-ni-ya*) → *Narrative* → *कहानी कहने*  
+  - **вневременного** (*v-ne-vre-men-no-go*) → *Timeless* → *कालातीत*  
+  - **повествования** (*po-ves-tvo-va-ni-ya*) → *Narrative* → *कहानी कहने*  
 
 [^a3]:**вдохновляющие на стойкость** (*v-dokh-no-vlya-yu-shche na stoikost’*) → *Inspiring resilience* → *लचीलापन को प्रेरित करना*  
-		**вдохновляющие** (*v-dokh-no-vlya-yu-shche*) → *Inspiring* → *प्रेरित करना*  
-		**на стойкость** (*na stoikost’*) → *Resilience* → *लचीलापन*  
+  - **вдохновляющие** (*v-dokh-no-vlya-yu-shche*) → *Inspiring* → *प्रेरित करना*  
+  -	**на стойкость** (*na stoikost’*) → *Resilience* → *लचीलापन*  
 
 [^a4]:**и творческое решение проблем** (*i tvor-che-sko-ye re-she-ni-ye pro-blem*) → *And creative problem-solving* → *और रचनात्मक समस्या समाधान*  
-		**и** (*i*) → *And* → *और*  
-		**творческое** (*tvor-che-sko-ye*) → *Creative* → *रचनात्मक*  
-		**решение** (*re-she-ni-ye*) → *Solution* → *समस्या समाधान*  
-		**проблем** (*pro-blem*) → *Problems* → *समस्याएँ*  
+  -	**и** (*i*) → *And* → *और*  
+  -	**творческое** (*tvor-che-sko-ye*) → *Creative* → *रचनात्मक*  
+  -	**решение** (*re-she-ni-ye*) → *Solution* → *समस्या समाधान*  
+  - **проблем** (*pro-blem*) → *Problems* → *समस्याएँ*  
 
 [^a5]:**редки** (*red-ki*) → *Are rare* → *दुर्लभ हैं*  
 
 [^a6]:**Считаете ли вы** (*Schita-ye-te li vy*) → *Do you think* → *क्या आपको लगता है*  
 
 [^a7]:**что противостояние Давида и Голиафа** (*chto pro-ti-vos-to-ya-ni-ye Da-vi-da i Go-li-a-fa*) → *That the confrontation between David and Goliath* → *कि डेविड और गोलियत के बीच टकराव*  
-		**противостояние** (*pro-ti-vos-to-ya-ni-ye*) → *Confrontation* → *टकराव*  
-		**Давида** (*Da-vi-da*) → *David* → *डेविड*  
-		**и** (*i*) → *And* → *और*  
-		**Голиафа** (*Go-li-a-fa*) → *Goliath* → *गोलियत*  
+  - **противостояние** (*pro-ti-vos-to-ya-ni-ye*) → *Confrontation* → *टकराव*  
+  -	**Давида** (*Da-vi-da*) → *David* → *डेविड*  
+  -	**и** (*i*) → *And* → *और*  
+  -	**Голиафа** (*Go-li-a-fa*) → *Goliath* → *गोलियत*  
 
 [^a8]:**это возможность?** (*é-to voz-mozh-nost’*) → *Is an opportunity?* → *एक अवसर है?*  
-		**это** (*é-to*) → *Is* → *है*  
-		**возможность** (*voz-mozh-nost’*) → *Opportunity* → *अवसर*  
+  - **это** (*é-to*) → *Is* → *है*  
+  -	**возможность** (*voz-mozh-nost’*) → *Opportunity* → *अवसर*  
 
 ---
 
@@ -268,8 +268,8 @@ Sometimes, the world presents challenges that feel insurmountable—giants that 
 - **непреодолимыми** (*ne-pre-o-do-li-my-mi*) → *Insurmountable* → *दुर्गम*  
 
 [^b5]:**гиганты, стоящие на пути** (*gi-gan-ty, sto-ya-shchi-ye na pu-ti*) → *Giants that stand in the way* → *रास्ते में खड़े दिग्गज*  
-- **гиганты** (*gi-gan-ty*) → *Giants* → *दिग्गज*  
-- **стоящие на пути** (*sto-ya-shchi-ye na pu-ti*) → *Standing in the way* → *रास्ते में बाधा बनकर खड़ा होना*  
+  - **гиганты** (*gi-gan-ty*) → *Giants* → *दिग्गज*  
+  - **стоящие на пути** (*sto-ya-shchi-ye na pu-ti*) → *Standing in the way* → *रास्ते में बाधा बनकर खड़ा होना*  
   - **стоящие** (*sto-ya-shchi-ye*) → *Standing* → *खड़े हुए*  
   - **на** (*na*) → *On, in* → *पर, में*  
   - **пути** (*pu-ti*) → *Way, path* → *रास्ता, मार्ग*  
@@ -928,48 +928,48 @@ Sometimes, the world presents challenges that feel insurmountable—giants that 
 *(कमजोर लोगों की रक्षा करना: मानवीय लोग अक्सर हाशिए पर और कमजोर लोगों के लिए खड़े होने वाले पहले व्यक्ति होते हैं, यह सुनिश्चित करते हुए कि उनकी आवाज सुनी जाती है और उनके अधिकारों को शक्तिशाली हितों से बचाया जाता है।)*  
 
 ## Break-up and Translation  
-**Защита** → *Protection* → *रक्षा* [^1]  
-**уязвимых людей** → *Of vulnerable people* → *कमजोर लोगों की* [^2]  
-**Индивидуумы** → *Individuals* → *व्यक्तित्व* [^3]  
-**руководствующиеся принципами человечности** → *Guided by principles of humanity* → *मानवता के सिद्धांतों द्वारा निर्देशित* [^4]  
-**часто становятся первыми** → *Are often the first to stand up* → *अक्सर पहले खड़े होने वाले होते हैं* [^5]  
-**на защиту маргинализованных и уязвимых** → *For the marginalized and vulnerable* → *हाशिए पर और कमजोर लोगों के लिए* [^6]  
-**обеспечивая, чтобы их голоса были услышаны** → *Ensuring their voices are heard* → *यह सुनिश्चित करते हुए कि उनकी आवाज सुनी जाती है* [^7]  
-**и их права были защищены от могущественных интересов** → *And their rights are protected against powerful interests* → *और उनके अधिकारों को शक्तिशाली हितों से बचाया जाता है* [^8]  
+**Защита** → *Protection* → *रक्षा* [^o1]  
+**уязвимых людей** → *Of vulnerable people* → *कमजोर लोगों की* [^o2]  
+**Индивидуумы** → *Individuals* → *व्यक्तित्व* [^o3]  
+**руководствующиеся принципами человечности** → *Guided by principles of humanity* → *मानवता के सिद्धांतों द्वारा निर्देशित* [^o4]  
+**часто становятся первыми** → *Are often the first to stand up* → *अक्सर पहले खड़े होने वाले होते हैं* [^o5]  
+**на защиту маргинализованных и уязвимых** → *For the marginalized and vulnerable* → *हाशिए पर और कमजोर लोगों के लिए* [^o6]  
+**обеспечивая, чтобы их голоса были услышаны** → *Ensuring their voices are heard* → *यह सुनिश्चित करते हुए कि उनकी आवाज सुनी जाती है* [^o7]  
+**и их права были защищены от могущественных интересов** → *And their rights are protected against powerful interests* → *और उनके अधिकारों को शक्तिशाली हितों से बचाया जाता है* [^o8]  
 
 ## Footnotes for this section:
-[^1]:**Защита** (*Za-shchi-ta*) → *Protection* → *रक्षा*  
+[^o1]:**Защита** (*Za-shchi-ta*) → *Protection* → *रक्षा*  
 
-[^2]:**уязвимых людей** (*u-yaz-vi-mykh lyu-dey*) → *Of vulnerable people* → *कमजोर लोगों की*  
+[^o2]:**уязвимых людей** (*u-yaz-vi-mykh lyu-dey*) → *Of vulnerable people* → *कमजोर लोगों की*  
 - **уязвимых** (*u-yaz-vi-mykh*) → *Vulnerable* → *कमजोर*  
 - **людей** (*lyu-dey*) → *People* → *लोगों की*  
 
-[^3]:**Индивидуумы** (*in-di-vi-du-u-my*) → *Individuals* → *व्यक्तित्व*  
+[^o3]:**Индивидуумы** (*in-di-vi-du-u-my*) → *Individuals* → *व्यक्तित्व*  
 
-[^4]:**руководствующиеся принципами человечности** (*ru-ko-vod-stvu-yu-shchi-yes-ya prin-tsi-pa-mi che-lo-vech-no-sti*) → *Guided by principles of humanity* → *मानवता के सिद्धांतों द्वारा निर्देशित*  
+[^o4]:**руководствующиеся принципами человечности** (*ru-ko-vod-stvu-yu-shchi-yes-ya prin-tsi-pa-mi che-lo-vech-no-sti*) → *Guided by principles of humanity* → *मानवता के सिद्धांतों द्वारा निर्देशित*  
 - **руководствующиеся** (*ru-ko-vod-stvu-yu-shchi-yes-ya*) → *Guided by* → *द्वारा निर्देशित*  
 - **принципами** (*prin-tsi-pa-mi*) → *Principles* → *सिद्धांतों*  
 - **человечности** (*che-lo-vech-no-sti*) → *Humanity* → *मानवता*  
 
-[^5]:**часто становятся первыми** (*chas-to sta-no-vyat-sya per-vy-mi*) → *Are often the first to stand up* → *अक्सर पहले खड़े होने वाले होते हैं*  
+[^o5]:**часто становятся первыми** (*chas-to sta-no-vyat-sya per-vy-mi*) → *Are often the first to stand up* → *अक्सर पहले खड़े होने वाले होते हैं*  
 - **часто** (*chas-to*) → *Often* → *अक्सर*  
 - **становятся** (*sta-no-vyat-sya*) → *Become* → *बन जाते हैं*  
 - **первыми** (*per-vy-mi*) → *First* → *पहले*  
 
-[^6]:**на защиту маргинализованных и уязвимых** (*na za-shchi-tu mar-gi-na-li-zo-van-nykh i u-yaz-vi-mykh*) → *For the marginalized and vulnerable* → *हाशिए पर और कमजोर लोगों के लिए*  
+[^o6]:**на защиту маргинализованных и уязвимых** (*na za-shchi-tu mar-gi-na-li-zo-van-nykh i u-yaz-vi-mykh*) → *For the marginalized and vulnerable* → *हाशिए पर और कमजोर लोगों के लिए*  
 - **защиту** (*za-shchi-tu*) → *Protection* → *रक्षा*  
 - **маргинализованных** (*mar-gi-na-li-zo-van-nykh*) → *Marginalized* → *हाशिए पर*  
 - **и** (*i*) → *And* → *और*  
 - **уязвимых** (*u-yaz-vi-mykh*) → *Vulnerable* → *कमजोर*  
 
-[^7]:**обеспечивая, чтобы их голоса были услышаны** (*o-be-spe-chi-va-ya, chto-by ikh go-lo-sa by-li u-sly-sha-ny*) → *Ensuring their voices are heard* → *यह सुनिश्चित करते हुए कि उनकी आवाज सुनी जाती है*  
+[^o7]:**обеспечивая, чтобы их голоса были услышаны** (*o-be-spe-chi-va-ya, chto-by ikh go-lo-sa by-li u-sly-sha-ny*) → *Ensuring their voices are heard* → *यह सुनिश्चित करते हुए कि उनकी आवाज सुनी जाती है*  
 - **обеспечивая** (*o-be-spe-chi-va-ya*) → *Ensuring* → *सुनिश्चित करना*  
 - **чтобы** (*chto-by*) → *So that* → *कि*  
 - **их** (*ikh*) → *Their* → *उनकी*  
 - **голоса** (*go-lo-sa*) → *Voices* → *आवाज़*  
 - **были услышаны** (*by-li u-sly-sha-ny*) → *Were heard* → *सुनी जाती है*  
 
-[^8]:**и их права были защищены от могущественных интересов** (*i ikh pra-va by-li za-shchi-che-ny ot mo-gu-shche-stven-nykh in-te-re-sov*) → *And their rights are protected against powerful interests* → *और उनके अधिकारों को शक्तिशाली हितों से बचाया जाता है*  
+[^o8]:**и их права были защищены от могущественных интересов** (*i ikh pra-va by-li za-shchi-che-ny ot mo-gu-shche-stven-nykh in-te-re-sov*) → *And their rights are protected against powerful interests* → *और उनके अधिकारों को शक्तिशाली हितों से बचाया जाता है*  
 - **и** (*i*) → *And* → *और*  
 - **их** (*ikh*) → *Their* → *उनके*  
 - **права** (*pra-va*) → *Rights* → *अधिकार*  
@@ -986,50 +986,50 @@ Sometimes, the world presents challenges that feel insurmountable—giants that 
 *(विश्वास और सहयोग का निर्माण: सत्य और मानवता समुदायों के भीतर विश्वास बनाने और विभिन्न समूहों के बीच सहयोग को मजबूत करने का आधार है, जो वैश्विक समस्याओं के सामूहिक समाधान के लिए आवश्यक है।)*  
 
 ## Break-up and Translation  
-**Построение** → *Building* → *निर्माण* [^1]  
-**доверия и сотрудничества** → *Trust and cooperation* → *विश्वास और सहयोग* [^2]  
-**Истина и человечность** → *Truth and humanity* → *सत्य और मानवता* [^3]  
-**являются основой** → *Are the foundation* → *आधार हैं* [^4]  
-**для установления доверия** → *For establishing trust* → *विश्वास बनाने के लिए* [^5]  
-**внутри сообществ** → *Within communities* → *समुदायों के भीतर* [^6]  
-**и укрепления сотрудничества** → *And strengthening collaboration* → *और सहयोग को मजबूत करने के लिए* [^7]  
-**среди различных групп** → *Among different groups* → *विभिन्न समूहों के बीच* [^8]  
-**что необходимо для коллективных решений глобальных проблем** → *Which is essential for collective solutions to global challenges* → *जो वैश्विक समस्याओं के सामूहिक समाधान के लिए आवश्यक है* [^9]  
+**Построение** → *Building* → *निर्माण* [^p1]  
+**доверия и сотрудничества** → *Trust and cooperation* → *विश्वास और सहयोग* [^p2]  
+**Истина и человечность** → *Truth and humanity* → *सत्य और मानवता* [^p3]  
+**являются основой** → *Are the foundation* → *आधार हैं* [^p4]  
+**для установления доверия** → *For establishing trust* → *विश्वास बनाने के लिए* [^p5]  
+**внутри сообществ** → *Within communities* → *समुदायों के भीतर* [^p6]  
+**и укрепления сотрудничества** → *And strengthening collaboration* → *और सहयोग को मजबूत करने के लिए* [^p7]  
+**среди различных групп** → *Among different groups* → *विभिन्न समूहों के बीच* [^p8]  
+**что необходимо для коллективных решений глобальных проблем** → *Which is essential for collective solutions to global challenges* → *जो वैश्विक समस्याओं के सामूहिक समाधान के लिए आवश्यक है* [^p9]  
 
 ## Footnotes for this section:
-[^1]:**Построение** (*po-stro-ye-ni-ye*) → *Building* → *निर्माण*  
+[^p1]:**Построение** (*po-stro-ye-ni-ye*) → *Building* → *निर्माण*  
 - **Построить** (*po-stro-it’*) → *To construct/build* → *निर्माण करना*  
 
-[^2]:**доверия и сотрудничества** (*do-ve-ri-ya i so-trud-ni-ches-tva*) → *Trust and cooperation* → *विश्वास और सहयोग*  
+[^p2]:**доверия и сотрудничества** (*do-ve-ri-ya i so-trud-ni-ches-tva*) → *Trust and cooperation* → *विश्वास और सहयोग*  
 - **доверие** (*do-ve-ri-ye*) → *Trust* → *विश्वास*  
 - **сотрудничество** (*so-trud-ni-ches-tvo*) → *Cooperation* → *सहयोग*  
 
-[^3]:**Истина и человечность** (*is-ti-na i che-lo-vech-nost’*) → *Truth and humanity* → *सत्य और मानवता*  
+[^p3]:**Истина и человечность** (*is-ti-na i che-lo-vech-nost’*) → *Truth and humanity* → *सत्य और मानवता*  
 - **истина** (*is-ti-na*) → *Truth* → *सत्य*  
 - **человечность** (*che-lo-vech-nost’*) → *Humanity* → *मानवता*  
 
-[^4]:**являются основой** (*ya-vlya-yut-sya os-no-voi*) → *Are the foundation* → *आधार हैं*  
+[^p4]:**являются основой** (*ya-vlya-yut-sya os-no-voi*) → *Are the foundation* → *आधार हैं*  
 - **являются** (*ya-vlya-yut-sya*) → *Are* → *हैं*  
 - **основа** (*os-no-va*) → *Foundation* → *आधार*  
 
-[^5]:**для установления доверия** (*dlya u-sta-no-vle-ni-ya do-ve-ri-ya*) → *For establishing trust* → *विश्वास बनाने के लिए*  
+[^p5]:**для установления доверия** (*dlya u-sta-no-vle-ni-ya do-ve-ri-ya*) → *For establishing trust* → *विश्वास बनाने के लिए*  
 - **установление** (*u-sta-no-vle-ni-ye*) → *Establishment* → *स्थापना*  
 - **доверие** (*do-ve-ri-ye*) → *Trust* → *विश्वास*  
 
-[^6]:**внутри сообществ** (*vnu-tri sa-o-bshchestv*) → *Within communities* → *समुदायों के भीतर*  
+[^p6]:**внутри сообществ** (*vnu-tri sa-o-bshchestv*) → *Within communities* → *समुदायों के भीतर*  
 - **внутри** (*vnu-tri*) → *Within* → *भीतर*  
 - **сообщества** (*sa-o-bshchest-va*) → *Communities* → *समुदाय*  
 
-[^7]:**и укрепления сотрудничества** (*i u-kre-ple-ni-ya so-trud-ni-ches-tva*) → *And strengthening collaboration* → *और सहयोग को मजबूत करने के लिए*  
+[^p7]:**и укрепления сотрудничества** (*i u-kre-ple-ni-ya so-trud-ni-ches-tva*) → *And strengthening collaboration* → *और सहयोग को मजबूत करने के लिए*  
 - **укрепление** (*u-kre-ple-ni-ye*) → *Strengthening* → *मजबूत करना*  
 - **сотрудничество** (*so-trud-ni-ches-tvo*) → *Cooperation* → *सहयोग*  
 
-[^8]:**среди различных групп** (*sre-di ra-zlich-nykh grupp*) → *Among different groups* → *विभिन्न समूहों के बीच*  
+[^p8]:**среди различных групп** (*sre-di ra-zlich-nykh grupp*) → *Among different groups* → *विभिन्न समूहों के बीच*  
 - **среди** (*sre-di*) → *Among* → *बीच में*  
 - **различных** (*ra-zlich-nykh*) → *Different* → *विभिन्न*  
 - **групп** (*grupp*) → *Groups* → *समूह*  
 
-[^9]:**что необходимо для коллективных решений глобальных проблем** (*chto ne-ob-kho-di-mo dlya ko-llek-tiv-nykh re-she-niy glo-bal-nykh pro-blem*) → *Which is essential for collective solutions to global challenges* → *जो वैश्विक समस्याओं के सामूहिक समाधान के लिए आवश्यक है*  
+[^p9]:**что необходимо для коллективных решений глобальных проблем** (*chto ne-ob-kho-di-mo dlya ko-llek-tiv-nykh re-she-niy glo-bal-nykh pro-blem*) → *Which is essential for collective solutions to global challenges* → *जो वैश्विक समस्याओं के सामूहिक समाधान के लिए आवश्यक है*  
 - **необходимо** (*ne-ob-kho-di-mo*) → *Essential* → *आवश्यक*  
 - **коллективные решения** (*ko-llek-tiv-nyye re-she-ni-ya*) → *Collective solutions* → *सामूहिक समाधान*  
 - **глобальные проблемы** (*glo-bal-nyye pro-ble-my*) → *Global challenges* → *वैश्विक समस्याएँ*  
@@ -1042,47 +1042,47 @@ Sometimes, the world presents challenges that feel insurmountable—giants that 
 *(दीर्घकालिक स्थिरता सुनिश्चित करना: सत्य और मानव कल्याण के लिए चिंता के आधार पर निर्णय और कार्य शोषण या धोखे के आधार पर अदूरदर्शी लाभों के बजाय ग्रह और भविष्य की पीढ़ियों के लिए स्थायी समाधान की ओर ले जाने की अधिक संभावना है।)*  
 
 ### Break-up and Translation  
-**Обеспечение** → *Ensuring* → *सुनिश्चित करना* [^1]  
-**долгосрочной устойчивости ** → *Long-term sustainability* → *दीर्घकालिक स्थिरता* [^2]  
-**Решения и действия** → *Decisions and actions* → *निर्णय और कार्य* [^3]  
-**основанные на заботе о правде и благополучии человечества** → *Based on concern for truth and human welfare* → *सत्य और मानव कल्याण के लिए चिंता के आधार पर* [^4]  
-**с большей вероятностью приведут к устойчивым решениям** → *Are more likely to lead to sustainable solutions* → *स्थायी समाधान की ओर ले जाने की अधिक संभावना है* [^5]  
-**для планеты и будущих поколений** → *For the planet and future generations* → *ग्रह और भविष्य की पीढ़ियों के लिए* [^6]  
-**а не к недальновидным выгодам, полученным за счет эксплуатации или обмана** → *Rather than short-sighted gains derived from exploitation or deception* → *अदूरदर्शी लाभों के बजाय शोषण या धोखे के आधार पर* [^7]  
+**Обеспечение** → *Ensuring* → *सुनिश्चित करना* [^q1]  
+**долгосрочной устойчивости ** → *Long-term sustainability* → *दीर्घकालिक स्थिरता* [^q2]  
+**Решения и действия** → *Decisions and actions* → *निर्णय और कार्य* [^q3]  
+**основанные на заботе о правде и благополучии человечества** → *Based on concern for truth and human welfare* → *सत्य और मानव कल्याण के लिए चिंता के आधार पर* [^q4]  
+**с большей вероятностью приведут к устойчивым решениям** → *Are more likely to lead to sustainable solutions* → *स्थायी समाधान की ओर ले जाने की अधिक संभावना है* [^q5]  
+**для планеты и будущих поколений** → *For the planet and future generations* → *ग्रह और भविष्य की पीढ़ियों के लिए* [^q6]  
+**а не к недальновидным выгодам, полученным за счет эксплуатации или обмана** → *Rather than short-sighted gains derived from exploitation or deception* → *अदूरदर्शी लाभों के बजाय शोषण या धोखे के आधार पर* [^q7]  
 
 ### Footnotes for this section
-[^1]:**Обеспечение** (*o-be-spe-che-ni-ye*) → *Ensuring* → *सुनिश्चित करना*  
+[^q1]:**Обеспечение** (*o-be-spe-che-ni-ye*) → *Ensuring* → *सुनिश्चित करना*  
 - **обеспечивать** (*o-be-spe-chi-vat’*) → *To provide/ensure* → *प्रदान करना / सुनिश्चित करना*  
 - **ние** (*ni-ye*) → *Process/form* → *प्रक्रिया*  
 
-[^2]:**долгосрочной устойчивости ** (*dol-go-sroch-noy sta-bil-nos-ti*) → *Long-term sustainability* → *दीर्घकालिक स्थिरता*  
+[^q2]:**долгосрочной устойчивости ** (*dol-go-sroch-noy sta-bil-nos-ti*) → *Long-term sustainability* → *दीर्घकालिक स्थिरता*  
 - **долгосрочной** (*dol-go-sroch-noy*) → *Long-term* → *दीर्घकालिक*  
 - **устойчивости ** (*sta-bil-nos-ti*) → *Sustainability* → *स्थिरता*  
 
-[^3]:**Решения и действия** (*re-she-ni-ya i deyst-vi-ya*) → *Decisions and actions* → *निर्णय और कार्य*  
+[^q3]:**Решения и действия** (*re-she-ni-ya i deyst-vi-ya*) → *Decisions and actions* → *निर्णय और कार्य*  
 - **решения** (*re-she-ni-ya*) → *Decisions* → *निर्णय*  
 - **и** (*i*) → *And* → *और*  
 - **действия** (*deyst-vi-ya*) → *Actions* → *कार्य*  
 
-[^4]:**основанные на заботе о правде и благополучии человечества** (*os-no-van-nyye na za-bo-te o prav-de i bla-go-po-lu-chi-i che-lo-ve-che-stva*) → *Based on concern for truth and human welfare* → *सत्य और मानव कल्याण के लिए चिंता के आधार पर*  
+[^q4]:**основанные на заботе о правде и благополучии человечества** (*os-no-van-nyye na za-bo-te o prav-de i bla-go-po-lu-chi-i che-lo-ve-che-stva*) → *Based on concern for truth and human welfare* → *सत्य और मानव कल्याण के लिए चिंता के आधार पर*  
 - **основанные** (*os-no-van-nyye*) → *Based on* → *आधारित*  
 - **на заботе** (*na za-bo-te*) → *On concern/care* → *चिंता/देखभाल पर*  
 - **о правде** (*o prav-de*) → *About truth* → *सत्य के बारे में*  
 - **и благополучии** (*i bla-go-po-lu-chi-i*) → *And welfare* → *और कल्याण*  
 - **человечества** (*che-lo-ve-che-stva*) → *Of humanity* → *मानवता का*  
 
-[^5]:**с большей вероятностью приведут к устойчивым решениям** (*s bol-shey ve-ro-yat-nos-tyu pri-ve-dut k us-toy-chi-vym re-she-ni-yam*) → *Are more likely to lead to sustainable solutions* → *स्थायी समाधान की ओर ले जाने की अधिक संभावना है*  
+[^q5]:**с большей вероятностью приведут к устойчивым решениям** (*s bol-shey ve-ro-yat-nos-tyu pri-ve-dut k us-toy-chi-vym re-she-ni-yam*) → *Are more likely to lead to sustainable solutions* → *स्थायी समाधान की ओर ले जाने की अधिक संभावना है*  
 - **с большей вероятностью** (*s bol-shey ve-ro-yat-nos-tyu*) → *With higher probability* → *अधिक संभावना के साथ*  
 - **приведут** (*pri-ve-dut*) → *Will lead* → *ले जाएंगे*  
 - **к устойчивым решениям** (*k us-toy-chi-vym re-she-ni-yam*) → *To sustainable solutions* → *स्थायी समाधान की ओर*  
 
-[^6]:**для планеты и будущих поколений** (*dlya pla-ne-ty i bu-du-shchikh po-ko-le-niy*) → *For the planet and future generations* → *ग्रह और भविष्य की पीढ़ियों के लिए*  
+[^q6]:**для планеты и будущих поколений** (*dlya pla-ne-ty i bu-du-shchikh po-ko-le-niy*) → *For the planet and future generations* → *ग्रह और भविष्य की पीढ़ियों के लिए*  
 - **для** (*dlya*) → *For* → *के लिए*  
 - **планеты** (*pla-ne-ty*) → *Planet* → *ग्रह*  
 - **и** (*i*) → *And* → *और*  
 - **будущих поколений** (*bu-du-shchikh po-ko-le-niy*) → *Future generations* → *भविष्य की पीढ़ियाँ*  
 
-[^7]:**а не к недальновидным выгодам, полученным за счет эксплуатации или обмана** (*a ne k ne-dal-no-vi-dnym vy-go-dam, po-lu-chen-nym za schyot eks-plu-a-ta-tsii ili ob-ma-na*) → *Rather than short-sighted gains derived from exploitation or deception* → *अदूरदर्शी लाभों के बजाय शोषण या धोखे के आधार पर*  
+[^q7]:**а не к недальновидным выгодам, полученным за счет эксплуатации или обмана** (*a ne k ne-dal-no-vi-dnym vy-go-dam, po-lu-chen-nym za schyot eks-plu-a-ta-tsii ili ob-ma-na*) → *Rather than short-sighted gains derived from exploitation or deception* → *अदूरदर्शी लाभों के बजाय शोषण या धोखे के आधार पर*  
 - **а не** (*a ne*) → *Rather than* → *के बजाय*  
 - **к недальновидным выгодам** (*k ne-dal-no-vi-dnym vy-go-dam*) → *To short-sighted gains* → *अदूरदर्शी लाभों की ओर*  
 - **полученным** (*po-lu-chen-nym*) → *Derived/received* → *प्राप्त*  
@@ -1098,39 +1098,39 @@ Sometimes, the world presents challenges that feel insurmountable—giants that 
 *(प्रेरणादायक साहस और लचीलापन: जो लोग सत्य और मानवता के अपने सिद्धांतों के अनुसार लगातार कार्य करते हैं, वे दूसरों को भी ऐसा करने के लिए प्रेरित कर सकते हैं, सकारात्मक परिवर्तन पैदा कर सकते हैं और विपरीत परिस्थितियों में लचीलापन बढ़ा सकते हैं।)*  
 
 ### Break-up and Translation  
-**Вдохновляющая смелость** → *Inspiring courage* → *प्रेरणादायक साहस* [^1]  
-**и стойкость** → *And resilience* → *और लचीलापन* [^2]  
-**Те, кто последовательно действуют в соответствии со своими принципами истины и человечности** → *Those who consistently act according to their principles of truth and humanity* → *जो लोग सत्य और मानवता के अपने सिद्धांतों के अनुसार लगातार कार्य करते हैं* [^3]  
-**могут вдохновить других поступать так же** → *Can inspire others to do the same* → *वे दूसरों को भी ऐसा करने के लिए प्रेरित कर सकते हैं* [^4]  
-**способствуя позитивным изменениям** → *Fostering positive change* → *सकारात्मक परिवर्तन पैदा कर सकते हैं* [^5]  
-**и укрепляя стойкость в сложных ситуациях** → *And strengthening resilience in challenging situations* → *और विपरीत परिस्थितियों में लचीलापन बढ़ा सकते हैं* [^6]  
+**Вдохновляющая смелость** → *Inspiring courage* → *प्रेरणादायक साहस* [^r1]  
+**и стойкость** → *And resilience* → *और लचीलापन* [^r2]  
+**Те, кто последовательно действуют в соответствии со своими принципами истины и человечности** → *Those who consistently act according to their principles of truth and humanity* → *जो लोग सत्य और मानवता के अपने सिद्धांतों के अनुसार लगातार कार्य करते हैं* [^r3]  
+**могут вдохновить других поступать так же** → *Can inspire others to do the same* → *वे दूसरों को भी ऐसा करने के लिए प्रेरित कर सकते हैं* [^r4]  
+**способствуя позитивным изменениям** → *Fostering positive change* → *सकारात्मक परिवर्तन पैदा कर सकते हैं* [^r5]  
+**и укрепляя стойкость в сложных ситуациях** → *And strengthening resilience in challenging situations* → *और विपरीत परिस्थितियों में लचीलापन बढ़ा सकते हैं* [^r6]  
 
 ### Footnotes for this section  
-[^1]:**Вдохновляющая смелость** (*Vdokh-no-vlya-yu-shchaya sme-lost’*) → *Inspiring courage* → *प्रेरणादायक साहस*  
+[^r1]:**Вдохновляющая смелость** (*Vdokh-no-vlya-yu-shchaya sme-lost’*) → *Inspiring courage* → *प्रेरणादायक साहस*  
 - **вдохновляющая** (*vdokh-no-vlya-yu-shchaya*) → *Inspiring* → *प्रेरणादायक*  
 - **смелость** (*sme-lost’*) → *Courage* → *साहस*  
 
-[^2]:**и стойкость** (*i stoy-kost’*) → *And resilience* → *और लचीलापन*  
+[^r2]:**и стойкость** (*i stoy-kost’*) → *And resilience* → *और लचीलापन*  
 - **и** (*i*) → *And* → *और*  
 - **стойкость** (*stoy-kost’*) → *Resilience* → *लचीलापन*  
 
-[^3]:**Те, кто последовательно действуют в соответствии со своими принципами истины и человечности** (*Te, kto pos-le-do-va-tel-no deyst-vu-yut v so-ot-vest-tvii so svo-i-mi prin-tsi-pa-mi is-ti-ny i che-lo-vech-no-sti*) → *Those who consistently act according to their principles of truth and humanity* → *जो लोग सत्य और मानवता के अपने सिद्धांतों के अनुसार लगातार कार्य करते हैं*  
+[^r3]:**Те, кто последовательно действуют в соответствии со своими принципами истины и человечности** (*Te, kto pos-le-do-va-tel-no deyst-vu-yut v so-ot-vest-tvii so svo-i-mi prin-tsi-pa-mi is-ti-ny i che-lo-vech-no-sti*) → *Those who consistently act according to their principles of truth and humanity* → *जो लोग सत्य और मानवता के अपने सिद्धांतों के अनुसार लगातार कार्य करते हैं*  
 - **Те, кто** (*Te, kto*) → *Those who* → *जो लोग*  
 - **последовательно действуют** (*pos-le-do-va-tel-no deyst-vu-yut*) → *Consistently act* → *लगातार कार्य करते हैं*  
 - **в соответствии со своими принципами** (*v so-ot-vest-tvii so svo-i-mi prin-tsi-pa-mi*) → *According to their principles* → *अपने सिद्धांतों के अनुसार*  
 - **истины и человечности** (*is-ti-ny i che-lo-vech-no-sti*) → *Truth and humanity* → *सत्य और मानवता*  
 
-[^4]:**могут вдохновить других поступать так же** (*mo-gut vdokh-no-vit’ dru-gikh pos-tu-pat’ tak zhe*) → *Can inspire others to do the same* → *वे दूसरों को भी ऐसा करने के लिए प्रेरित कर सकते हैं*  
+[^r4]:**могут вдохновить других поступать так же** (*mo-gut vdokh-no-vit’ dru-gikh pos-tu-pat’ tak zhe*) → *Can inspire others to do the same* → *वे दूसरों को भी ऐसा करने के लिए प्रेरित कर सकते हैं*  
 - **могут вдохновить** (*mo-gut vdokh-no-vit’*) → *Can inspire* → *प्रेरित कर सकते हैं*  
 - **других** (*dru-gikh*) → *Others* → *दूसरों को*  
 - **поступать так же** (*pos-tu-pat’ tak zhe*) → *To do the same* → *ऐसा करने के लिए*  
 
-[^5]:**способствуя позитивным изменениям** (*spo-sob-stvu-ya po-zi-tiv-nym iz-me-ne-ni-yam*) → *Fostering positive change* → *सकारात्मक परिवर्तन पैदा कर सकते हैं*  
+[^r5]:**способствуя позитивным изменениям** (*spo-sob-stvu-ya po-zi-tiv-nym iz-me-ne-ni-yam*) → *Fostering positive change* → *सकारात्मक परिवर्तन पैदा कर सकते हैं*  
 - **способствуя** (*spo-sob-stvu-ya*) → *Fostering* → *बढ़ावा देते हुए*  
 - **позитивным** (*po-zi-tiv-nym*) → *Positive* → *सकारात्मक*  
 - **изменениям** (*iz-me-ne-ni-yam*) → *Changes* → *परिवर्तन*  
 
-[^6]:**и укрепляя стойкость в сложных ситуациях** (*i u-kre-plya-ya stoy-kost’ v slozh-nykh si-tu-a-tsi-yakh*) → *And strengthening resilience in challenging situations* → *और विपरीत परिस्थितियों में लचीलापन बढ़ा सकते हैं*  
+[^r6]:**и укрепляя стойкость в сложных ситуациях** (*i u-kre-plya-ya stoy-kost’ v slozh-nykh si-tu-a-tsi-yakh*) → *And strengthening resilience in challenging situations* → *और विपरीत परिस्थितियों में लचीलापन बढ़ा सकते हैं*  
 - **и** (*i*) → *And* → *और*  
 - **укрепляя стойкость** (*u-kre-plya-ya stoy-kost’*) → *Strengthening resilience* → *लचीलापन बढ़ा सकते हैं*  
 - **в сложных ситуациях** (*v slozh-nykh si-tu-a-tsi-yakh*) → *In challenging situations* → *विपरीत परिस्थितियों में*  
@@ -1143,36 +1143,36 @@ Sometimes, the world presents challenges that feel insurmountable—giants that 
 *(संतुलन शक्ति असंतुलन: ऐसी स्थितियों में जहां शक्ति केंद्रित है और संभावित रूप से दुरुपयोग किया जाता है, सच्चाई और मानवता के अटूट रक्षक एक महत्वपूर्ण असंतुलन के रूप में काम करते हैं, पारदर्शिता और जवाबदेही की मांग करते हैं।)*  
 
 ### Break-up and Translation  
-**Балансирование дисбаланса власти** → *Balancing power imbalances* → *संतुलन शक्ति असंतुलन* [^1]  
-**В ситуациях, где власть сосредоточена и потенциально используется неправомерно** → *In situations where power is concentrated and potentially misused* → *ऐसी स्थितियों में जहां शक्ति केंद्रित है और संभावित रूप से दुरुपयोग किया जाता है* [^2]  
-**непоколебимые защитники истины и человечности** → *Unwavering defenders of truth and humanity* → *सच्चाई और मानवता के अटूट रक्षक* [^3]  
-**действуют как важный противовес** → *Act as a crucial counterbalance* → *एक महत्वपूर्ण असंतुलन के रूप में काम करते हैं* [^4]  
-**требуя прозрачности и подотчетности** → *Demanding transparency and accountability* → *पारदर्शिता और जवाबदेही की मांग करते हैं* [^5]  
+**Балансирование дисбаланса власти** → *Balancing power imbalances* → *संतुलन शक्ति असंतुलन* [^s1]  
+**В ситуациях, где власть сосредоточена и потенциально используется неправомерно** → *In situations where power is concentrated and potentially misused* → *ऐसी स्थितियों में जहां शक्ति केंद्रित है और संभावित रूप से दुरुपयोग किया जाता है* [^s2]  
+**непоколебимые защитники истины и человечности** → *Unwavering defenders of truth and humanity* → *सच्चाई और मानवता के अटूट रक्षक* [^s3]  
+**действуют как важный противовес** → *Act as a crucial counterbalance* → *एक महत्वपूर्ण असंतुलन के रूप में काम करते हैं* [^s4]  
+**требуя прозрачности и подотчетности** → *Demanding transparency and accountability* → *पारदर्शिता और जवाबदेही की मांग करते हैं* [^s5]  
 
 ### Footnotes for this section  
-[^1]:**Балансирование дисбаланса власти** (*Ba-lan-si-ro-va-ni-ye dis-ba-lan-sa vla-sti*) → *Balancing power imbalances* → *संतुलन शक्ति असंतुलन*  
+[^s1]:**Балансирование дисбаланса власти** (*Ba-lan-si-ro-va-ni-ye dis-ba-lan-sa vla-sti*) → *Balancing power imbalances* → *संतुलन शक्ति असंतुलन*  
 - **Балансирование** (*Ba-lan-si-ro-va-ni-ye*) → *Balancing* → *संतुलन*  
 - **дисбаланса** (*dis-ba-lan-sa*) → *Imbalance* → *असंतुलन*  
 - **власти** (*vla-sti*) → *Of power* → *शक्ति का*  
 
-[^2]:**В ситуациях, где власть сосредоточена и потенциально используется неправомерно** (*V si-tu-a-tsi-yakh, gde vla-st’ sos-re-do-to-che-na i po-ten-tsi-al-no is-pol-zu-yet-sya ne-pra-vo-mer-no*) → *In situations where power is concentrated and potentially misused* → *ऐसी स्थितियों में जहां शक्ति केंद्रित है और संभावित रूप से दुरुपयोग किया जाता है*  
+[^s2]:**В ситуациях, где власть сосредоточена и потенциально используется неправомерно** (*V si-tu-a-tsi-yakh, gde vla-st’ sos-re-do-to-che-na i po-ten-tsi-al-no is-pol-zu-yet-sya ne-pra-vo-mer-no*) → *In situations where power is concentrated and potentially misused* → *ऐसी स्थितियों में जहां शक्ति केंद्रित है और संभावित रूप से दुरुपयोग किया जाता है*  
 - **В ситуациях** (*V si-tu-a-tsi-yakh*) → *In situations* → *स्थितियों में*  
 - **где власть** (*gde vla-st’*) → *Where power* → *जहां शक्ति*  
 - **сосредоточена** (*sos-re-do-to-che-na*) → *Is concentrated* → *केंद्रित है*  
 - **и потенциально используется неправомерно** (*i po-ten-tsi-al-no is-pol-zu-yet-sya ne-pra-vo-mer-no*) → *And potentially misused* → *और संभावित रूप से दुरुपयोग किया जाता है*  
 
-[^3]:**непоколебимые защитники истины и человечности** (*ne-po-ko-le-bi-mye za-shchi-tniki is-ti-ny i che-lo-vech-nos-ti*) → *Unwavering defenders of truth and humanity* → *सच्चाई और मानवता के अटूट रक्षक*  
+[^s3]:**непоколебимые защитники истины и человечности** (*ne-po-ko-le-bi-mye za-shchi-tniki is-ti-ny i che-lo-vech-nos-ti*) → *Unwavering defenders of truth and humanity* → *सच्चाई और मानवता के अटूट रक्षक*  
 - **непоколебимые** (*ne-po-ko-le-bi-mye*) → *Unwavering* → *अटूट*  
 - **защитники** (*za-shchi-tniki*) → *Defenders* → *रक्षक*  
 - **истины** (*is-ti-ny*) → *Of truth* → *सच्चाई का*  
 - **и человечности** (*i che-lo-vech-nos-ti*) → *And humanity* → *और मानवता*  
 
-[^4]:**действуют как важный противовес** (*deyst-vu-yut kak va-zhny pro-ti-vo-ves*) → *Act as a crucial counterbalance* → *एक महत्वपूर्ण असंतुलन के रूप में काम करते हैं*  
+[^s4]:**действуют как важный противовес** (*deyst-vu-yut kak va-zhny pro-ti-vo-ves*) → *Act as a crucial counterbalance* → *एक महत्वपूर्ण असंतुलन के रूप में काम करते हैं*  
 - **действуют** (*deyst-vu-yut*) → *Act* → *काम करते हैं*  
 - **как важный** (*kak va-zhny*) → *As a crucial* → *एक महत्वपूर्ण रूप में*  
 - **противовес** (*pro-ti-vo-ves*) → *Counterbalance* → *असंतुलन*  
 
-[^5]:**требуя прозрачности и подотчетности** (*tre-bu-ya pro-zrach-nos-ti i po-dot-chet-nos-ti*) → *Demanding transparency and accountability* → *पारदर्शिता और जवाबदेही की मांग करते हैं*  
+[^s5]:**требуя прозрачности и подотчетности** (*tre-bu-ya pro-zrach-nos-ti i po-dot-chet-nos-ti*) → *Demanding transparency and accountability* → *पारदर्शिता और जवाबदेही की मांग करते हैं*  
 - **требуя** (*tre-bu-ya*) → *Demanding* → *मांगते हैं*  
 - **прозрачности** (*pro-zrach-nos-ti*) → *Transparency* → *पारदर्शिता*  
 - **и подотчетности** (*i po-dot-chet-nos-ti*) → *And accountability* → *और जवाबदेही*  
