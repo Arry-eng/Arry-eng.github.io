@@ -189,6 +189,8 @@ Sometimes, the world presents challenges that feel insurmountable—giants that 
 This is a sentence with a footnote[^1].
 
 [^1]: This is the footnote content.
+
+
 ---
 
 # Break-up Of Russian Sentences and Translation - रूसी वाक्यों और अनुवादों का विभाजन  {#russian_translation}
@@ -197,10 +199,12 @@ This is a sentence with a footnote[^1].
 *Moments of a timeless narrative that inspire resilience and creative problem-solving are rare. Do you think the confrontation between David and Goliath is an opportunity?*  
 *(कालातीत कहानी कहने के क्षण जो लचीलापन और रचनात्मक समस्या समाधान को प्रेरित करते हैं, दुर्लभ हैं । क्या आपको लगता है कि डेविड और गोलियत के बीच टकराव एक अवसर है?)*  
 
+---
 This is a sentence with a footnote[^1].
 
 [^1]: This is the footnote content.
 
+---
 
 ### Break-up and Translation 
 
