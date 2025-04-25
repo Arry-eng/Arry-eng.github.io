@@ -205,7 +205,9 @@ Sometimes, the world presents challenges that feel insurmountable—giants that 
 **что противостояние Давида и Голиафа** → *That the confrontation between David and Goliath* → *कि डेविड और गोलियत के बीच टकराव* [^a7]  
 **это возможность?** → *Is an opportunity?* → *एक अवसर है?* [^a8]  
 
-### Footnotes for this section:  
+### Footnotes for this section: 
+ 
+ 
 [^a1]:**Моменты** (*Mo-men-ty*) → *Moments* → *क्षण*  
 
 [^a2]:**вневременного повествования** (*v-ne-vre-men-no-go po-ves-tvo-va-ni-ya*) → *Timeless narrative* → *कालातीत कहानी कहने*  
@@ -253,10 +255,8 @@ Sometimes, the world presents challenges that feel insurmountable—giants that 
 
 ## Footnotes for this section:  
 [^b1]:**Иногда** (*In-o-gda*) → *Sometimes* → *कभी-कभी*  
-- **Иногда** (*In-o-gda*) → *Sometimes* → *कभी-कभी*  
 
 [^b2]:**мир** (*mir*) → *The world* → *दुनिया*  
-- **мир** (*mir*) → *The world* → *दुनिया*  
 
 [^b3]:**бросает вызовы** (*bro-sa-yet vy-zo-vy*) → *Presents challenges* → *चुनौतियों को प्रस्तुत करता है*  
 - **бросает** (*bro-sa-yet*) → *Throws, presents* → *फेंकता है*  
@@ -297,7 +297,6 @@ Sometimes, the world presents challenges that feel insurmountable—giants that 
 
 ## Footnotes for this section:  
 [^c1]:**Но** (*No*) → *But* → *लेकिन*  
-- **Но** (*No*) → *But* → *लेकिन*  
 
 [^c2]:**история, предания и жизненный опыт** (*is-to-ri-ya, pre-da-ni-ya i zhi-znen-nyy opyt*) → *History, stories, and lived experiences* → *इतिहास, परंपरा और जीवन का अनुभव*  
 - **история** (*is-to-ri-ya*) → *History* → *इतिहास*  
