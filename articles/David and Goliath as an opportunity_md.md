@@ -235,6 +235,7 @@ Sometimes, the world presents challenges that feel insurmountable—giants that 
 [^8]:**это возможность?** (*é-to voz-mozh-nost’*) → *Is an opportunity?* → *एक अवसर है?*  
 	> - **это** (*é-to*) → *Is* → *है*  
 	> - **возможность** (*voz-mozh-nost’*) → *Opportunity* → *अवसर*  
+
 ---
 
 ### Противостояние вызовам  
@@ -278,6 +279,7 @@ Sometimes, the world presents challenges that feel insurmountable—giants that 
 	> - **амбиций** (*am-bi-tsiy*) → *Ambition* → *महत्वाकांक्षा*  
 	> - **или** (*ili*) → *Or* → *या*  
 	> - **справедливости** (*spra-ve-dli-vos-ti*) → *Justice* → *न्याय*  
+
 ---
 
 ### Уроки смелости и веры  
@@ -326,6 +328,7 @@ Sometimes, the world presents challenges that feel insurmountable—giants that 
 	> - **стратегию** (*stra-te-gi-yu*) → *Strategy* → *रणनीति*  
 	> - **непоколебимую** (*ne-po-ko-le-bi-mu-yu*) → *Unshakable* → *अटूट*  
 	> - **веру** (*ve-ru*) → *Belief, faith* → *विश्वास*  
+
 ---
 
 ### Противостояние Давида и Голиафа  
@@ -378,6 +381,7 @@ Sometimes, the world presents challenges that feel insurmountable—giants that 
 	> - **есть** (*yest’*) → *There is* → *होती है*  
 	> - **место** (*mes-to*) → *Place, space* → *जगह*  
 	> - **стойкости** (*stoy-kos-ti*) → *Resilience* → *लचीलापन*  
+
 ---
 
 ### Противостояние гигантам  
