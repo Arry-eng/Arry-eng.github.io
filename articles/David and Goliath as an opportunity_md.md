@@ -197,7 +197,12 @@ This is a sentence with a footnote[^1].
 *Moments of a timeless narrative that inspire resilience and creative problem-solving are rare. Do you think the confrontation between David and Goliath is an opportunity?*  
 *(कालातीत कहानी कहने के क्षण जो लचीलापन और रचनात्मक समस्या समाधान को प्रेरित करते हैं, दुर्लभ हैं । क्या आपको लगता है कि डेविड और गोलियत के बीच टकराव एक अवसर है?)*  
 
-## Break-up and Translation 
+This is a sentence with a footnote[^1].
+
+[^1]: This is the footnote content.
+
+
+### Break-up and Translation 
 **Моменты** → *Moments* → *क्षण* [^1]  
 **вневременного повествования** → *Timeless narrative* → *कालातीत कहानी कहने* [^2]  
 **вдохновляющие на стойкость** → *Inspiring resilience* → *लचीलापन को प्रेरित करना* [^3]  
@@ -207,8 +212,18 @@ This is a sentence with a footnote[^1].
 **что противостояние Давида и Голиафа** → *That the confrontation between David and Goliath* → *कि डेविड और गोलियत के बीच टकराव* [^7]  
 **это возможность?** → *Is an opportunity?* → *एक अवसर है?* [^8]  
 
+This is a sentence with a footnote[^1].
+
+[^1]: This is the footnote content.
+
+
 ### Footnotes for this section:  
 Pronunciation with meaning in English and Hindi:
+
+This is a sentence with a footnote[^1].
+
+[^1]: This is the footnote content.
+
 
 
 [^1]: **Моменты** (*Mo-men-ty*) → *Moments* → *क्षण*  
@@ -248,7 +263,7 @@ Pronunciation with meaning in English and Hindi:
 *Sometimes, the world presents challenges that feel insurmountable—giants that stand in the way of progress, ambition, or justice.*  
 *कभी—कभी दुनिया उन चुनौतियों को फेंक देती है जो दुर्गम लगती हैं-प्रगति, महत्वाकांक्षा या न्याय के रास्ते में खड़े दिग्गज।*  
 
-## Break-up and Translation:  
+### Break-up and Translation:  
 **Иногда** → *Sometimes* → *कभी-कभी* [^1]  
 **мир** → *The world* → *दुनिया* [^2]  
 **бросает вызовы** → *Presents challenges* → *चुनौतियों को प्रस्तुत करता है* [^3]  
@@ -256,7 +271,6 @@ Pronunciation with meaning in English and Hindi:
 **гиганты, стоящие на пути** → *Giants that stand in the way* → *रास्ते में खड़े दिग्गज* [^5]  
 **прогресса, амбиций или справедливости** → *Of progress, ambition, or justice* → *प्रगति, महत्वाकांक्षा या न्याय के* [^6]  
 
-## Footnotes for this section:  
 [^1]:**Иногда** (*In-o-gda*) → *Sometimes* → *कभी-कभी*  
 - **Иногда** (*In-o-gda*) → *Sometimes* → *कभी-कभी*  
 
