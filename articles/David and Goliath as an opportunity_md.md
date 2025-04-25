@@ -206,13 +206,13 @@ Sometimes, the world presents challenges that feel insurmountable—giants that 
 **это возможность?** → *Is an opportunity?* → *एक अवसर है?* [^a8]  
 
 ### Footnotes for this section: 
- [^a1]:**Моменты** (*Mo-men-ty*) → *Moments* → *क्षण*  
+[^a1] :**Моменты** (*Mo-men-ty*) → *Moments* → *क्षण*  
 
- [^a2]:**вневременного повествования** (*v-ne-vre-men-no-go po-ves-tvo-va-ni-ya*) → *Timeless narrative* → *कालातीत कहानी कहने*  
+ [^a2] :**вневременного повествования** (*v-ne-vre-men-no-go po-ves-tvo-va-ni-ya*) → *Timeless narrative* → *कालातीत कहानी कहने*  
 - **вневременного** (*v-ne-vre-men-no-go*) → *Timeless* → *कालातीत*  
 - **повествования** (*po-ves-tvo-va-ni-ya*) → *Narrative* → *कहानी कहने*  
 
-  [^a3]:**вдохновляющие на стойкость** (*v-dokh-no-vlya-yu-shche na stoikost’*) → *Inspiring resilience* → *लचीलापन को प्रेरित करना*  
+  [^a3] :**вдохновляющие на стойкость** (*v-dokh-no-vlya-yu-shche na stoikost’*) → *Inspiring resilience* → *लचीलापन को प्रेरित करना*  
 - **вдохновляющие** (*v-dokh-no-vlya-yu-shche*) → *Inspiring* → *प्रेरित करना*  
 - **на стойкость** (*na stoikost’*) → *Resilience* → *लचीलापन*  
 
