@@ -1,4 +1,8 @@
 ---
+markdown: kramdown
+kramdown:
+  enable_footnotes: false
+
 layout: post
 title: David and Goliath as an Opportunity
 date: 2025-04-25
