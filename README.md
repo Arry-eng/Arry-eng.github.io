@@ -65,16 +65,12 @@
 			<li><strong>सांस्कृतिक विरासत:</strong> यह रेसिपी बागर क्षेत्र के पारंपरिक स्वाद को दर्शाती है।</li>
 		</ul>
 		<p><a class="article-link" href="./articles/Microsoft_Copilot_Pickle_Bagar.html#article_hindi">"लेख-हिंदी संस्करण" पर जाएं</a></p>
-		<p class="highlighted-text">
-			<span>Alongside sharpening your culinary skills, you can also enhance your Russian language proficiency through this detailed breakdown of Russian phrases and words.</span>
-			<br>
-			<span>Совершенствуя свои кулинарные навыки, вы также можете улучшить знание русского языка благодаря этому детальному разбору русских фраз и слов.</span>
-			<br>
-			<span>अपने पाक कौशल को निखारने के साथ-साथ, आप इस विस्तृत अनुवाद के माध्यम से रूसी भाषा का ज्ञान भी बढ़ा सकते हैं।</span>
-			<br>
-			<a class="article-link" href="./articles/Microsoft_Copilot_Pickle_Bagar.html##detailed_translation">Explore Russian phrases & translations | Изучите русские фразы и переводы | रूसी वाक्य और अनुवाद खोजें</a>
-		</p>
-
+		<ul class="highlighted-list">
+			<p>Alongside sharpening your culinary skills, you can also enhance your Russian language proficiency through this detailed breakdown of Russian phrases and words.</p>
+			<p>Совершенствуя свои кулинарные навыки, вы также можете улучшить знание русского языка благодаря этому детальному разбору русских фраз и слов.</p>
+			<p>अपने पाक कौशल को निखारने के साथ-साथ, आप इस विस्तृत अनुवाद के माध्यम से रूसी भाषा का ज्ञान भी बढ़ा सकते हैं।</p>
+			<p><a class="article-link" href="./articles/Microsoft_Copilot_Pickle_Bagar.html##detailed_translation">Explore Russian phrases & translations | Изучите русские фразы и переводы | रूसी वाक्य और अनुवाद खोजें</a></p>
+		</ul>
 		<p class="credit">Help Provided by <a href="https://www.microsoft.com/en-us/ai/copilot" target="_blank" class="credit">Microsoft Copilot</a></p>
 	</div>
 
