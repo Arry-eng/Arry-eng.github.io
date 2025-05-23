@@ -43,9 +43,7 @@
 			<li><strong>Культурное наследие:</strong> Рецепт отражает традиционные вкусы региона Багар.</li>
 		</ul>
 		<p><a class="article-link" href="./articles/Microsoft_Copilot_Pickle_Bagar.html#article_russian">Перейти к статье - русская версия</a></p>
-	</div>
-
-	<div class="article-item">
+	
 		<h3 class="article-title">Latest Article:<span class="article-date">May 22, 2025</span></h3>
 		<h4 class="article-title">How Microsoft Copilot Helped Me Adapt My Pickle Recipe to the Cultural Taste of the Bagar Region</h4>
 		<ul class="article-summary">
@@ -56,25 +54,23 @@
 			<li><strong>Cultural Heritage:</strong> The recipe reflects the traditional flavors of the Bagar region.</li>
 		</ul>
 		<p><a class="article-link" href="./articles/Microsoft_Copilot_Pickle_Bagar.html#article_english">Go to Article - English Version</a></p>
+	
+		<h3 class="article-title">नवीनतम लेख:<span class="article-date">22 मई, 2025</span></h3>
+		<h4 class="article-title">कैसे Microsoft Copilot ने मुझे अचार की रेसिपी को बागर क्षेत्र के सांस्कृतिक स्वाद के अनुरूप बनाने में मदद की</h4>
+		<ul class="article-summary">
+			<p>यह रेसिपी पारंपरिक तकनीकों और आधुनिक AI सहायता का संयोजन है:</p>
+			<li><strong>जलवायु अनुकूलन:</strong> स्वाद संरक्षण के लिए धूप में सुखाने का उपयोग।</li>
+			<li><strong>मसालों का संतुलन:</strong> कलोंजी, हींग और सरसों के तेल की मात्रा को समायोजित करना।</li>
+			<li><strong>प्रक्रिया अनुकूलन:</strong> Copilot की अंतर्दृष्टि ने अचार बनाने की तकनीक को परिष्कृत किया।</li>
+			<li><strong>सांस्कृतिक विरासत:</strong> यह रेसिपी बागर क्षेत्र के पारंपरिक स्वाद को दर्शाती है।</li>
+		</ul>
+		<p><a class="article-link" href="./articles/Microsoft_Copilot_Pickle_Bagar.html#article_hindi">"लेख-हिंदी संस्करण" पर जाएं</a></p>
+		<p>Alongside sharpening your culinary skills, you can also enhance your Russian language proficiency through this detailed breakdown of Russian phrases and words.</p>
+		<p>Совершенствуя свои кулинарные навыки, вы также можете улучшить знание русского языка благодаря этому детальному разбору русских фраз и слов.</p>
+		<p>अपने पाक कौशल को निखारने के साथ-साथ, आप इस विस्तृत अनुवाद के माध्यम से रूसी भाषा का ज्ञान भी बढ़ा सकते हैं।</p>
+		<p><a class="article-link" href="./articles/Microsoft_Copilot_Pickle_Bagar.html##detailed_translation">Explore Russian phrases & translations | Изучите русские фразы и переводы | रूसी वाक्य और अनुवाद खोजें</a></p>
+		<p class="credit">Help Provided by <a href="https://www.microsoft.com/en-us/ai/copilot" target="_blank" class="credit">Microsoft Copilot</a></p>
 	</div>
-
-<div class="article-item">
-    <h3 class="article-title">नवीनतम लेख:<span class="article-date">22 मई, 2025</span></h3>
-    <h4 class="article-title">कैसे Microsoft Copilot ने मुझे अचार की रेसिपी को बागर क्षेत्र के सांस्कृतिक स्वाद के अनुरूप बनाने में मदद की</h4>
-    <ul class="article-summary">
-        <p>यह रेसिपी पारंपरिक तकनीकों और आधुनिक AI सहायता का संयोजन है:</p>
-        <li><strong>जलवायु अनुकूलन:</strong> स्वाद संरक्षण के लिए धूप में सुखाने का उपयोग।</li>
-        <li><strong>मसालों का संतुलन:</strong> कलोंजी, हींग और सरसों के तेल की मात्रा को समायोजित करना।</li>
-        <li><strong>प्रक्रिया अनुकूलन:</strong> Copilot की अंतर्दृष्टि ने अचार बनाने की तकनीक को परिष्कृत किया।</li>
-        <li><strong>सांस्कृतिक विरासत:</strong> यह रेसिपी बागर क्षेत्र के पारंपरिक स्वाद को दर्शाती है।</li>
-    </ul>
-    <p><a class="article-link" href="./articles/Microsoft_Copilot_Pickle_Bagar.html#article_hindi">"लेख-हिंदी संस्करण" पर जाएं</a></p>
-	<p>Alongside sharpening your culinary skills, you can also enhance your Russian language proficiency through this detailed breakdown of Russian phrases and words.</p>
-	<p>Совершенствуя свои кулинарные навыки, вы также можете улучшить знание русского языка благодаря этому детальному разбору русских фраз и слов.</p>
-	<p>अपने पाक कौशल को निखारने के साथ-साथ, आप इस विस्तृत अनुवाद के माध्यम से रूसी भाषा का ज्ञान भी बढ़ा सकते हैं।</p>
-	<p><a class="article-link" href="./articles/Microsoft_Copilot_Pickle_Bagar.html##detailed_translation">Explore Russian phrases & translations | Изучите русские фразы и переводы | रूसी वाक्य और अनुवाद खोजें</a></p>
-	<p class="credit">Help Provided by <a href="https://www.microsoft.com/en-us/ai/copilot" target="_blank" class="credit">Microsoft Copilot</a></p>
-</div>
 
 	<div class="article-item">
         <h3 class="article-title"><span class="article-date">25 Апреля 2025 Года</span></h3>
