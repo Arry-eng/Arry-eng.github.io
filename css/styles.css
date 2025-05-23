@@ -211,3 +211,16 @@ body {
     text-align: credi;
     margin-top: 20px;
 }
+.highlighted-text {
+    background: #eef4ff; /* Light blue for subtle emphasis */
+    padding: 10px;
+    border-left: 4px solid #007bff; /* Blue left border */
+    border-radius: 5px;
+    font-size: 1.1em;
+    color: #333;
+    text-align: center; /* Ensures neat alignment */
+}
+.highlighted-text span {
+    display: block; /* Keeps each language on a separate line */
+    margin-bottom: 5px; /* Adds slight spacing for readability */
+}
