@@ -84,7 +84,7 @@ This recipe is a fusion of traditional techniques and modern AI assistance:
 ### **2. Подготовка смеси специй**  
 Специи являются сердцем любого маринада, определяя **аромат, вкус и срок хранения**. Вот **главная смесь специй**:  
 
-![Основная смесь специй](images/IMG_Pickle Masala Mix Spicy_20250521_175427.jpg)  
+![Основная смесь специй](./images/IMG_Pickle Masala Mix Spicy_20250521_175427.jpg)  
 
 Эта смесь включает:  
 ✅ **Пажитник, горчичные семена, фенхель** – для насыщенного землистого и орехового вкуса.  
@@ -97,7 +97,7 @@ This recipe is a fusion of traditional techniques and modern AI assistance:
 ### **3. Сила семян черного тмина (Калонджи)**  
 Семена калонджи придают **легкую горечь и глубину**, отлично дополняя горчичное масло. Давайте рассмотрим их подробнее:  
 
-![Семена черного тмина (Калонджи) – ключевой ингредиент этого маринада](images/IMG_Masala_Kalonji_Nigella_Seeds_20250521_175537.jpg)  
+![Семена черного тмина (Калонджи) – ключевой ингредиент этого маринада](./images/IMG_Masala_Kalonji_Nigella_Seeds_20250521_175537.jpg)  
 
 Добавление **1-1,5 ч. л.** в маринад усиливает его **аутентичность и насыщенный вкус**.  
 
@@ -106,7 +106,7 @@ This recipe is a fusion of traditional techniques and modern AI assistance:
 ### **4. Острый аромат асафетиды (Хинг)**  
 Асафетида связывает все вкусы воедино, создавая **насыщенный умами** – ключевой элемент северо-индийских маринадов.  
 
-![Асафетида (Хинг) – скрытая мощь индийских маринадов](images/IMG_Masala_Hing_ Asafoetida_20250521_175454.jpg)  
+![Асафетида (Хинг) – скрытая мощь индийских маринадов](./images/IMG_Masala_Hing_ Asafoetida_20250521_175454.jpg)  
 
 **Достаточно небольшого количества (¼–½ ч. л.)**, особенно если добавить в **горячее горчичное масло** перед смешиванием с маринадом.  
 
@@ -200,7 +200,7 @@ This recipe is a result of flavor exploration and technology integration. **Micr
 ### **2. Preparing the Spice Blend**  
 Spices are the heart of a pickle, defining its **aroma, flavor, and shelf life**. Here’s the **main spice mixture**:  
 
-![The main masala mixture](images/IMG_Pickle Masala Mix Spicy_20250521_175427.jpg)  
+![The main masala mixture](./images/IMG_Pickle Masala Mix Spicy_20250521_175427.jpg)  
 
 This blend includes:  
 ✅ **Fenugreek, mustard, fennel seeds** – For deep earthy and nutty notes.  
@@ -214,7 +214,7 @@ This blend includes:
 ### **3. The Power of Nigella Seeds (Kalonji)**  
 Nigella seeds bring a **mild bitterness and depth** that complement mustard oil beautifully. Here’s a closer look:  
 
-![Nigella seeds (Kalonji), a star ingredient in this pickle](images/IMG_Masala_Kalonji_Nigella_Seeds_20250521_175537.jpg)  
+![Nigella seeds (Kalonji), a star ingredient in this pickle](./images/IMG_Masala_Kalonji_Nigella_Seeds_20250521_175537.jpg)  
 
 Adding **1-1.5 tsp** to the pickle enhances its **authenticity and bold flavor**.
 
@@ -223,7 +223,7 @@ Adding **1-1.5 tsp** to the pickle enhances its **authenticity and bold flavor**
 ### **4. The Pungent Magic of Hing (Asafoetida)**  
 Hing ties all the flavors together, creating a **rich umami taste** essential for North-Indian pickles.  
 
-![Asafoetida (Hing) - The hidden powerhouse of Indian pickles](images/IMG_Masala_Hing_ Asafoetida_20250521_175454.jpg)  
+![Asafoetida (Hing) - The hidden powerhouse of Indian pickles](./images/IMG_Masala_Hing_ Asafoetida_20250521_175454.jpg)  
 
 **A small amount (¼ to ½ tsp) goes a long way**, especially when mixed into **hot mustard oil** before adding to the pickle.
 
@@ -335,7 +335,7 @@ Would you try **Microsoft Copilot** for your next **regional recipe experiment**
 ### **2. मुख्य मसाला मिश्रण की तैयारी**  
 मसाले किसी भी अचार की जान होते हैं, जो **स्वाद, सुगंध और स्थायित्व** को परिभाषित करते हैं। यहाँ **मुख्य मसाला मिश्रण** है:  
 
-![मुख्य मसाला मिश्रण](images/IMG_Pickle Masala Mix Spicy_20250521_175427.jpg)  
+![मुख्य मसाला मिश्रण](./images/IMG_Pickle Masala Mix Spicy_20250521_175427.jpg)  
 
 इस मिश्रण में शामिल हैं:  
 ✅ **मेथी, सरसों, सौंफ के बीज** – गहरे मिट्टी जैसे और हल्के मीठे स्वाद के लिए।  
@@ -348,7 +348,7 @@ Would you try **Microsoft Copilot** for your next **regional recipe experiment**
 ### **3. कलौंजी के बीजों की शक्ति**  
 कलौंजी के बीज हल्की कड़वाहट और गहराई जोड़ते हैं, जो सरसों के तेल के साथ बेहतरीन तालमेल बनाते हैं। आइए इसे करीब से देखें:  
 
-![कलौंजी के बीज - इस अचार का एक प्रमुख तत्व](images/IMG_Masala_Kalonji_Nigella_Seeds_20250521_175537.jpg)  
+![कलौंजी के बीज - इस अचार का एक प्रमुख तत्व](./images/IMG_Masala_Kalonji_Nigella_Seeds_20250521_175537.jpg)  
 
 अचार में **1-1.5 चम्मच** कलौंजी डालने से इसकी **प्रामाणिकता और बोल्ड स्वाद** बढ़ जाता है।  
 
@@ -357,7 +357,7 @@ Would you try **Microsoft Copilot** for your next **regional recipe experiment**
 ### **4. हींग का तीखा जादू**  
 हींग सभी स्वादों को आपस में जोड़ता है और उत्तर-भारतीय अचारों के लिए **गहरा उमामी स्वाद** देता है।  
 
-![हींग - भारतीय अचारों की छुपी हुई ताकत](images/IMG_Masala_Hing_ Asafoetida_20250521_175454.jpg)  
+![हींग - भारतीय अचारों की छुपी हुई ताकत](./images/IMG_Masala_Hing_ Asafoetida_20250521_175454.jpg)  
 
 **¼ से ½ चम्मच** हींग का प्रयोग पर्याप्त होता है, खासकर जब इसे **गरम सरसों के तेल** में मिलाकर अचार में डाला जाता है।  
 
