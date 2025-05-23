@@ -33,7 +33,7 @@
     <hr style="border:1; border-top:1px solid #eee; margin: 20px 0;">   
 	-->
 	<div class="article-item">
-		<h3 class="article-title">Последняя статья:<span class="article-date">22 Мая 2025 Года</span></h3>
+		<h3 class="article-title">Последняя статья:<span class="article-date">23 Мая 2025 Года</span></h3>
 		<h4 class="article-title">Как Microsoft Copilot помог мне адаптировать рецепт маринованных овощей к культурным вкусам региона Багар</h4>
 		<ul class="article-summary">
 			<p>Этот рецепт - результат сочетания традиционных методов и современных технологий:</p>
@@ -44,7 +44,7 @@
 		</ul>
 		<p><a class="article-link" href="./articles/Microsoft_Copilot_Pickle_Bagar.html#article_russian">Перейти к статье - русская версия</a></p>
 	
-		<h3 class="article-title">Latest Article:<span class="article-date">May 22, 2025</span></h3>
+		<h3 class="article-title">Latest Article:<span class="article-date">May 23, 2025</span></h3>
 		<h4 class="article-title">How Microsoft Copilot Helped Me Adapt My Pickle Recipe to the Cultural Taste of the Bagar Region</h4>
 		<ul class="article-summary">
 			<p>This recipe is a fusion of traditional techniques and modern AI assistance:</p>
@@ -55,7 +55,7 @@
 		</ul>
 		<p><a class="article-link" href="./articles/Microsoft_Copilot_Pickle_Bagar.html#article_english">Go to Article - English Version</a></p>
 	
-		<h3 class="article-title">नवीनतम लेख:<span class="article-date">22 मई, 2025</span></h3>
+		<h3 class="article-title">नवीनतम लेख:<span class="article-date">23 मई, 2025</span></h3>
 		<h4 class="article-title">कैसे Microsoft Copilot ने मुझे अचार की रेसिपी को बागर क्षेत्र के सांस्कृतिक स्वाद के अनुरूप बनाने में मदद की</h4>
 		<ul class="article-summary">
 			<p>यह रेसिपी पारंपरिक तकनीकों और आधुनिक AI सहायता का संयोजन है:</p>
