@@ -84,7 +84,7 @@ This recipe is a fusion of traditional techniques and modern AI assistance:
 ### **2. Подготовка смеси специй**  
 Специи являются сердцем любого маринада, определяя **аромат, вкус и срок хранения**. Вот **главная смесь специй**:  
 
-![Основная смесь специй](/images/IMG_Pickle Masala Mix Spicy_20250521_175427.jpg){:width="400px" height="auto"}  
+![Основная смесь специй](/images/IMG_Pickle Masala Mix Spicy_20250521_175427.jpg){:width="600px" height="auto"}  
 
 Эта смесь включает:  
 ✅ **Пажитник, горчичные семена, фенхель** – для насыщенного землистого и орехового вкуса.  
